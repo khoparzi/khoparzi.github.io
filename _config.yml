@@ -25,7 +25,9 @@ description: I am a multidisciplinary creative technologist who maintains a prac
 navbar-links:
   About Me: "aboutme"
   Work:
-    - https://vimeo.com/khoparzi
+    - Into the Polar Night: https://www.youtube.com/watch?v=kZU7dfoDry8
+    - Aston Martin Racing: https://www.youtube.com/playlist?list=PLMb2quoCd8rfwTPQnXDrJugWYOuMuKcCP
+    - Voices of War and Peace: https://www.youtube.com/playlist?list=PLMb2quoCd8reO-83sFc3fK_iTg3q5hgnO
   Technical Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
