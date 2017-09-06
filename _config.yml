@@ -171,6 +171,7 @@ prose:
     - LICENSE
     - feed.xml
     - _config.yml
+    - _config_dev.yml
     - /_layouts
     - /_includes
     - /css
