@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: XBox as a Dev Kit
 ---
 ## I missed this one
