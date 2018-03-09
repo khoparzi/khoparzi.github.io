@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: 2018-03-09-processing-linux.md
+title: 2018-03-09-processing-linux
 ---
 ## Using Processing on Linux
 
