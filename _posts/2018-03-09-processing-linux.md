@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: processing-linux
+title: Using Processing on Linux
 ---
 ## Using Processing on Linux
 
