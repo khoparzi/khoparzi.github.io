@@ -2,6 +2,11 @@
 layout: post
 published: true
 title: Unity 5 and Kinect
+tags:
+  - unity
+  - xbox
+  - kinect
+  - creative coding
 ---
 ## A useful tutorial here
 
