@@ -3,7 +3,10 @@ layout: post
 published: true
 title: XBox as a Dev Kit
 tags:
-  - unity - xbox - creative coding - installation art
+  - unity
+  - xbox
+  - creative coding
+  - installation art
 ---
 ## I missed this one
 
