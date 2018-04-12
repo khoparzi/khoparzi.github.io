@@ -1,23 +1,24 @@
-## Announcing the first Algorave India event!!! YAY!
+## Announcing the first Algorave event in India!!! YAY!
 
 Next month I'm collaborating with Dhanya Pilo (Vj Decoy) for a creative coding workshop and performance in Bombay. Please plug yourself in this form to book your place for the free event.
 
 [Google Forms Link](https://goo.gl/forms/A2FzZy24Lg8AAQ1Y2)
 
-ALGORAVE WORKSHOP///  OPEN CALL.
+From the offical open call:
+>ALGORAVE WORKSHOP///  OPEN CALL.
 Live Coding Workshop VISUAL x AUDIO x TEXT
 Timings: 11am - 4 pm, Entry: Free
 Come with your laptop, and earphones/headphones
 OPEN FOR BEGINNERS & EXPERTS
 
-FAT FINGER MAYHEM LIVE JAM SESSION
+>FAT FINGER MAYHEM LIVE JAM SESSION
 (OPEN GIG) Timings: 6 pm - 8 pm, Entry: Free
 Date: 11 May 2018, Saturday.
 Venue: Gallery MMB, Goethe-Institut / Max Mueller Bhavan, Kala Ghoda, Mumbai.
 
 [Facebook Event Link](https://www.facebook.com/groups/1550827825016506/)
 
-This event organised by Algorave India and Goethe-Institut / Max Mueller Bhavan and is part of the ongoing exhibition "Open Codes. Digital Culture Techniques", on view at Gallery MMB till June 2, 2018. In collaboration with ZKM, Center for Art and Media, Karlsruhe, Germany.
+>This event organised by Algorave India and Goethe-Institut / Max Mueller Bhavan and is part of the ongoing exhibition "Open Codes. Digital Culture Techniques", on view at Gallery MMB till June 2, 2018. In collaboration with ZKM, Center for Art and Media, Karlsruhe, Germany.
 
 As part of the event I am going to post a short live coding clip everyday for the next month.
 
