@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why'd you like me to work for you
 ---
 
 I am a multidisciplinary creative technologist who maintains a practice across film, video, music and web technologies. Having always tried to run away from being put in box I have in turns been a consumer, critic, and maker of tools that allow me and others to make experiences that makes us think, play and inform.
