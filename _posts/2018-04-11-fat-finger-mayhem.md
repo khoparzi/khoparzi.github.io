@@ -5,7 +5,7 @@ title: FAT FINGER MAYHEM
 ---
 ## Announcing the first Algorave event in India!!! YAY!
 
-Next month I'm collaborating with Dhanya Pilo (Vj Decoy) for a creative coding workshop and performance in Bombay. Please plug yourself in this form to book your place for the free event.
+In the month of May 2018 I'm collaborating with Dhanya Pilo (Vj Decoy) for a creative coding workshop and performance in Bombay. Please plug yourself in this form to book your place for the free event.
 
 [Google Forms Link](https://goo.gl/forms/A2FzZy24Lg8AAQ1Y2)
 
