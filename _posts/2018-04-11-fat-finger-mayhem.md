@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: Untitled
+published: true
+title: FAT FINGER MAYHEM
 ---
 ## Announcing the first Algorave event in India!!! YAY!
 
