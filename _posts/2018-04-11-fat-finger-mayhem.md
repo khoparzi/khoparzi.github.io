@@ -18,7 +18,7 @@ OPEN FOR BEGINNERS & EXPERTS
 
 >FAT FINGER MAYHEM LIVE JAM SESSION
 (OPEN GIG) Timings: 6 pm - 8 pm, Entry: Free
-Date: 11 May 2018, Saturday.
+Date: 12 May 2018, Saturday.
 Venue: Gallery MMB, Goethe-Institut / Max Mueller Bhavan, Kala Ghoda, Mumbai.
 
 [Facebook Event Link](https://www.facebook.com/groups/1550827825016506/)
