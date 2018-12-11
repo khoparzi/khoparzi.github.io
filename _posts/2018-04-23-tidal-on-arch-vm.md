@@ -1,6 +1,6 @@
-##Setup a TidalCycles VM
+# Setting up a TidalCycles VM
 
-I tried poking about with docker based SuperTidebox and variants for a long time but could never spend enough time with the emacs binding. In the end I decided to setup a little plain and simple VM for myself.
+I tried poking about with docker based SuperTidebox and variants for a long time but could never become comfortable with the emacs bindings. In the end I decided to setup a little plain and simple VM for myself.
 
 Following instructions from [Installing arch on a Virtualbox vm]
 (https://www.howtoforge.com/tutorial/install-arch-linux-on-virtualbox/)
@@ -15,11 +15,11 @@ which requires additional steps in the form of
 
 from https://wiki.archlinux.org/index.php/GRUB
 
-##Installing SC
+## Installing SC
 
 sudo pacman -S supercollider sc3-plugins git
 
-##Haskell install
+## Haskell install
 
 http://nanxiao.me/en/set-up-haskell-development-environment-on-arch-linux/
 
