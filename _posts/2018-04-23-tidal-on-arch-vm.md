@@ -2,8 +2,7 @@
 
 I tried poking about with docker based SuperTidebox and variants for a long time but could never become comfortable with the emacs bindings. In the end I decided to setup a little plain and simple VM for myself.
 
-Following instructions from [Installing arch on a Virtualbox vm]
-(https://www.howtoforge.com/tutorial/install-arch-linux-on-virtualbox/)
+Following instructions from [Installing arch on a Virtualbox VM](https://www.howtoforge.com/tutorial/install-arch-linux-on-virtualbox/)
 
 The only change is that I used GPT
 
