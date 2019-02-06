@@ -14,7 +14,7 @@ Make a new file in the ```"./_includes"``` folder of your Jekyll repo, I decided
 
 I decided to copy almost everything from Instagram's suggested embed block. Here is everything with a slightly better formatting.
 
-```
+```html
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/Brdia8an1_B/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:16px;"> <a href="https://www.instagram.com/p/Brdia8an1_B/?utm_source=ig_embed&amp;utm_medium=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
       <div style=" display: flex; flex-direction: row; align-items: center;">
@@ -71,7 +71,7 @@ I decided to copy almost everything from Instagram's suggested embed block. Here
 
 First thing I did was pull out the insta logo from the svg block and put in a separate ```insta.svg``` file in my ```./img``` folder.
 
-```
+```html
 <svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
       <g transform="translate(-511.000000, -20.000000)" fill="#000000">
@@ -92,7 +92,7 @@ I referred to the postid I took from Instagram and replaced it with the include 
 
 I removed the last ```p``` block because I don't have a way to pull up the time from the actual post.
 
-```
+```html
 <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/Brdia8an1_B/?utm_source=ig_embed&amp;utm_medium=loading"
     style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Abhinay Khoparzi (@khoparzi)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;"
     datetime="2018-12-16T20:30:16+00:00">Dec 16, 2018 at 12:30pm PST</time></p>
@@ -106,7 +106,7 @@ Just replace ```YOUR POST ID``` with the one from the instagram URL of your post
 
 Here is the source of `instagram.html` provided for reference.
 
-```
+```html
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/{{ include.id }}/?utm_source=ig_embed&amp;utm_medium=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   <div style="padding:16px;"> <a href="https://www.instagram.com/p/{{ include.id }}/?utm_source=ig_embed&amp;utm_medium=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
       <div style=" display: flex; flex-direction: row; align-items: center;">
