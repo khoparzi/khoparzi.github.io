@@ -88,7 +88,7 @@ I referred to the postid I took from Instagram and replaced it with the include 
 |From this |To this|
 |-----------|-------|
 |```data-instgrm-permalink="https://www.instagram.com/p/Brdia8an1_B/?utm_source=ig_embed&amp;utm_medium=loading"```|```data-instgrm-permalink="https://www.instagram.com/p/{{ include.id }}/?utm_source=ig_embed&amp;utm_medium=loading"```|
-|```href="https://www.instagram.com/p/Brdia8an1_B/?utm_source=ig_embed&amp;utm_medium=loading"````|```href="https://www.instagram.com/p/{{ include.id }}/?utm_source=ig_embed&amp;utm_medium=loading"```|
+|```href="https://www.instagram.com/p/Brdia8an1_B/?utm_source=ig_embed&amp;utm_medium=loading"```|```href="https://www.instagram.com/p/{{ include.id }}/?utm_source=ig_embed&amp;utm_medium=loading"```|
 
 I removed the last ```p``` block because I don't have a way to pull up the time from the actual post.
 
