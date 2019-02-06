@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Embedding Instagram posts on a Jekyll sites
+title: Embedding Instagram posts on Jekyll sites
 ---
 
 I have been posting a bunch of my music on Instagram for the past few years. Last year turned out to be specially prolific for lazy person like me, mainly because I decided to join [#Jamuary2018](https://www.instagram.com/explore/tags/jamuary2018/) and was posting a short piece every day for the month. Later in the year we organised Fat Finger Mayhem, a day long creative coding workshop and Algorave event. To celebrate the event I was posting an algorithmically generated piece as a lead up to the event (Look up [#FatFingerMayhem](https://www.instagram.com/explore/tags/fatfingermayhem/) on Instagram).

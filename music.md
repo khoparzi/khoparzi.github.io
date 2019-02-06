@@ -4,7 +4,7 @@ title: Music
 subtitle:
 ---
 
-A small selection of my music posted on Instgram
+A small selection of my music posted on Instagram
 
 {% include instagram.html id="BrlGRCiH1Rd" %}
 
