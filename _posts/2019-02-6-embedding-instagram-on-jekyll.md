@@ -100,7 +100,7 @@ I removed the last ```p``` block because I don't have a way to pull up the time 
 
 Once all of that is out the way lets use Jekyll's internal include method and pull the block we prepared.
 
-```{% include insta.html id="YOUR POST ID" %}```
+--
 
 Just replace ```YOUR POST ID``` with the one from the instagram URL of your post and Done!!
 
