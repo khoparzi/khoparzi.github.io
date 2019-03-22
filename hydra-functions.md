@@ -2,7 +2,7 @@
 
 22 March 2019
 
-# Functions
+# [Hydra](http://hydra-editor.glitch.me) Functions
 
 - [Categories of functions](#categories)
 - [Complete contents of functions](#contents)
