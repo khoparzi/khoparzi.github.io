@@ -1,5 +1,6 @@
-## This is a temporary location for the most updated docs produced by [Jack Armitage](https://github.com/jarmitage) at the time of publishing
-### 22 March 2019
+*This is a temporary location for the most updated docs produced by [Jack Armitage](https://github.com/jarmitage) at the time of publishing*
+
+22 March 2019
 
 # Functions
 
