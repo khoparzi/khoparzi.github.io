@@ -4,18 +4,18 @@ title: Press
 subtitle:
 ---
 
-#Algorave#
+## Algorave ##
 
 [Algoraver starter pack - Livemint](https://www.livemint.com/mint-lounge/features/algoraver-starter-pack-1553936747789.html)
 
 [Grooving to Algo‘rhythms’](https://www.asianage.com/life/more-features/090219/grooving-to-algorhythms.html)
 
 
-#Music#
+## Music ##
 
 [Sonic Flotsam](http://www.verveonline.com/73/life/performing.shtml)
 
-#Kshay#
+## Kshay ##
 
 [Corrode, Review](https://variety.com/2011/film/reviews/corrode-1117946453/)
 
@@ -47,7 +47,7 @@ subtitle:
 
 [Kshay Movie Review: An absolute must watch!](https://madaboutmoviez.com/2012/06/11/kshay-movie-review-absolute-must-watch/)
 
-#Workshops#
+## Workshops ##
 
 Saturday, 12 May, 2018
 [Music With Code: Algorave Workshop In Mumbai](http://www.thewildcity.com/news/7346-music-with-code-algorave-workshop-in-mumbai)
