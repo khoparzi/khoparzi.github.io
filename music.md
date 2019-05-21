@@ -4,9 +4,7 @@ title: Music
 subtitle:
 ---
 
-Live coded performances playlist
-
-[YouTube](https://www.youtube.com/playlist?list=PLM5Fk0Nc7zS4D2z981zXaquy03ew1e0_R)
+Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list=PLM5Fk0Nc7zS4D2z981zXaquy03ew1e0_R)
 
 A selection of my music posted on Instagram
 
