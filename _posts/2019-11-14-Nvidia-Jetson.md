@@ -23,3 +23,5 @@ https://gist.github.com/jvcleave/ed342fb2d41564bcdab6
 
 Older instructions for rpi
 https://gist.github.com/jvcleave/8489b3ec5897eb1a26a2
+
+<script async src="//www.instagram.com/embed.js"></script>
