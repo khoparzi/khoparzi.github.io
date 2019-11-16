@@ -9,7 +9,7 @@ I recently was bedridden because of an almost epidemic of Dengue that has been r
 
 The best thing I could figure was to setup Openframeworks on it and make it part of my AV set. Performance has been crazy good, and all the GLSL shaders and OSC communication has been great. Hopefully I'll be able to push the system to another level and make something truly groundbreaking.
 
-{ %include instagram.html id="B44qLFmJVUc" % }
+{%include instagram.html id="B44qLFmJVUc" %}
 
 The basic Ofx setup involves these excellent instructions by
 https://gist.github.com/madelinegannon/237733e6c114f156b31366f47c1f3d32
