@@ -12,4 +12,4 @@ I end up using derivatives of Ubuntu most of the time, so this should help with 
 
 A few modifications need to be made for Elementary OS, for ex. there is need to use both sudo and su while moving to /usr/local/bin
 
-Also, I tend to use nano just because I like it better. Still havent been able to make the mime type work well. Hopefully that will change soon.
+Also, I tend to use nano just because I like it better. Still haven't been able to make the mime type work well. Hopefully that will change soon.

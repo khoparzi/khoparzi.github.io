@@ -11,17 +11,21 @@ The best thing I could figure was to setup Openframeworks on it and make it part
 
 {% include instagram.html id="B44qLFmJVUc" %}
 
+{% include instagram.html id="B47pySWJXm1" %}
+
+{% include instagram.html id="B49RXMDpTAH" %}
+
 The basic Ofx setup involves these excellent instructions by
-https://gist.github.com/madelinegannon/237733e6c114f156b31366f47c1f3d32
+(https://gist.github.com/madelinegannon/237733e6c114f156b31366f47c1f3d32)
 
 source article
-https://gist.github.com/jvcleave/e49c0b52085d040a5cd8a3385121cb91
+(https://gist.github.com/jvcleave/e49c0b52085d040a5cd8a3385121cb91)
 
 A cross compiling idea that was suggested in the articles, but I just don't seem to have the harddrive space for a VM yet. Maybe... one day...
 
-https://gist.github.com/jvcleave/ed342fb2d41564bcdab6
+(https://gist.github.com/jvcleave/ed342fb2d41564bcdab6)
 
 Older instructions for rpi
-https://gist.github.com/jvcleave/8489b3ec5897eb1a26a2
+(https://gist.github.com/jvcleave/8489b3ec5897eb1a26a2)
 
 <script async src="//www.instagram.com/embed.js"></script>

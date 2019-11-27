@@ -680,3 +680,26 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+/* Gig aside */
+div.gig-col {
+  font-size: 60%;
+  padding: 15px 0;
+}
+div.gig-col h2 {
+  font-size: 90%;
+}
+div.gig-col ul {
+  padding-left: 0;
+  list-style: none;
+}
+div.gig-col li {
+  /* font-size: 60%; */
+  margin-top: 5px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+}
+div.gig-col li:hover {
+  background-color: #f5f5f5;
+}
