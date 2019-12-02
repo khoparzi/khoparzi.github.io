@@ -461,7 +461,7 @@ footer .theme-by {
 }
 .intro-header .page-heading h1.ml4 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 40px;
   min-height: 70px;
 }
 .intro-header .post-heading h1 {
@@ -726,4 +726,7 @@ div.gig-col li:hover {
   top: 0.3em;
   right: 0;
   opacity: 0;
+}
+.ml4 .letters-1 {
+  opacity: 1;
 }
