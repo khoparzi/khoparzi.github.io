@@ -25,6 +25,8 @@ subtitle:
 
 [Corrode, Review](https://variety.com/2011/film/reviews/corrode-1117946453/)
 
+[The decade in Bollywood: The movies that dared to dream differently](https://scroll.in/reel/947820/the-decade-in-bollywood-the-movies-that-dared-to-dream-differently)
+
 [Indie film Kshay to release June 15](https://www.hindustantimes.com/bollywood/indie-film-kshay-to-release-june-15/story-MBBVCGQsgrENE2QK1HUtrK.html)
 
 [Alekh Sangal and his journey with Kshay](https://akshaymanwani.wordpress.com/2012/06/28/alekh-sangal-and-his-journey-with-kshay/)
