@@ -6,6 +6,16 @@ subtitle:
 
 Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list=PLM5Fk0Nc7zS4D2z981zXaquy03ew1e0_R)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8tjoSUdvl-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cWpRa7l04sQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-9-HfVK0rQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BDuc-yDoTi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wl_IZKxXGms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A selection of my music posted on Instagram
 
 {% include instagram.html id="BrlGRCiH1Rd" %}
