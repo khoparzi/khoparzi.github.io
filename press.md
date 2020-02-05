@@ -19,7 +19,11 @@ subtitle:
 
 ## Music ##
 
-[Sonic Flotsam](http://www.verveonline.com/73/life/performing.shtml)
+[Sonic Flotsam, Verve Online](http://www.verveonline.com/73/life/performing.shtml)
+
+[What Heart - Mukul Deora, Music Release, 2009](https://www.hindustantimes.com/music/i-d-like-to-be-as-good-as-led-zep-some-day/story-cz2NYrOvHc1A6oOaY4MzsN.html)
+
+[Bleepin' Intriguing, Mumbai Mirror, 2009](https://mumbaimirror.indiatimes.com/entertainment/music/bleepin-intriguing/articleshow/15923167.cms)
 
 ## Kshay ##
 
