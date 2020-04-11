@@ -6,6 +6,8 @@ subtitle:
 
 ## Algorave ##
 
+[Type and jive - Anjuly Mathai writing for the The Week](https://www.theweek.in/theweek/leisure/2020/04/04/type-and-jive.html)
+
 [Coded World - Episode 4: Future - Channel News Asia (Video Documentary)](https://www.channelnewsasia.com/news/video-on-demand/coded-world/future-11945306)
 
 [Algoraver starter pack - Livemint](https://www.livemint.com/mint-lounge/features/algoraver-starter-pack-1553936747789.html)
