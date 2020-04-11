@@ -50,14 +50,15 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
-          <h1 class="ml4">
-            <span class="letters letters-1">insert-title-here</span>
-            <span class="letters letters-2">technologist</span>
-            <span class="letters letters-3">musician</span>
-            <span class="letters letters-4">cinematographer</span>
-            <span class="letters letters-5">video producer</span>
-          </h1>
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+          {% if page.title %}<h1>{{ page.title }}</h1>{% else %}
+           <h1 class="ml4">
+             <span class="letters letters-1">insert-title-here</span>
+             <span class="letters letters-2">technologist</span>
+             <span class="letters letters-3">musician</span>
+             <span class="letters letters-4">cinematographer</span>
+             <span class="letters letters-5">video producer</span>
+           </h1>
+          {% endif %}
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
             <hr class="small">

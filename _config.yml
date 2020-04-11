@@ -67,7 +67,7 @@ author:
   #spotify: yourname   # eg. daattali
   #telephone: yourphone   # eg. +14159998888
   #steam: yourname     # eg. daattali
-  #twitch: yourname    # eg. daattali
+  twitch: khoparzi    # eg. daattali
   #yelp: yourname      # eg. daattali
 
 # Select which links to show in the footer
@@ -88,7 +88,7 @@ footer-links-active:
   spotify: false
   telephone: false
   steam: false
-  twitch: false
+  twitch: true
   yelp: false
 
 # Select which share links to show in posts
