@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music
+title: Visuals with Marching.js
 subtitle:
 ---
 
