@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Visuals with Marching.js
-subtitle:
+layout: post
+title: "A month of Julia"
+date: "2020-08-01 00:30:26 +0530"
+tags: [shaders, creative coding, glsl, javaScript]
 ---
 
 Almost a month's worth of Marching.js sketches exploring various experiments with Julia fractals through the month of July 2020. [Marching.js](https://charlieroberts.github.io/marching/playground/) is a JavaScript shader compiler specifically focused on ray marching via signed distance functions.
