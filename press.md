@@ -21,6 +21,10 @@ subtitle:
 
 ## Music ##
 
+[Serendipity Arts Festival Goes Digital: An Innovative Online Translation Of The Art Experience](https://www.transcontinentaltimes.com/serendipity-arts-festival-goes-digital-an-innovative-online-translation-of-the-art-experience.html)
+
+[25 must-visit art exhibits in and around India you need to check out, Vogue India](https://www.vogue.in/culture-and-living/content/25-must-visit-art-exhibits-in-and-around-india-you-need-to-check-out?fbclid=IwAR1uy-_U9jSC50g6PfaWLvKEeQpQQVzWSlY7PRIrcnYg7ZXdXf-3PIIKWRY)
+
 [Sonic Flotsam, Verve Online](http://www.verveonline.com/73/life/performing.shtml)
 
 [What Heart - Mukul Deora, Music Release, 2009](https://www.hindustantimes.com/music/i-d-like-to-be-as-good-as-led-zep-some-day/story-cz2NYrOvHc1A6oOaY4MzsN.html)
