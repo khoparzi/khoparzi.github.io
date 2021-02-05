@@ -11,6 +11,10 @@ gigs: true
   <ul>
     <li><a href="http://futurelanding.serendipityartsvirtual.com/abhinaykhoparzi">Future Landing: Collabscape</a></li>
   </ul>
+  <h2>Music</h2>
+  <ul>
+    <li><a href="https://khoparzi.bandcamp.com/album/circadia">Circadia</a></li>
+  </ul>
   <h2>Gigs/workshops</h2>
   <ul>
     {% for gig in site.data.gigs %}
