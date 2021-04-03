@@ -14,7 +14,7 @@ gigs: true
   <h2>Music</h2>
   <ul>
     <li><a href="https://khoparzi.bandcamp.com/album/circadia">Circadia</a></li>
-    <li><a href="https://youtu.be/C0fIfrlbcfo">GitHub India Satellite, Day 2: Opening performance</a></li>
+    <li><a href="https://youtu.be/C0fIfrlbcfo">GitHub India Satellite 2021, Day 2: Opening performance</a></li>
   </ul>
   <h2>Gigs/workshops</h2>
   <ul>
