@@ -4,6 +4,11 @@ title: Music
 subtitle:
 ---
 
+## Dancers of Combine Overlords
+
+<iframe src="https://player.vimeo.com/video/426673865" width="640" height="478" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/426673865">Dancers of Combine Overlords</a> from <a href="https://vimeo.com/khoparzi">Abhinay Khoparzi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list=PLM5Fk0Nc7zS4D2z981zXaquy03ew1e0_R)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8tjoSUdvl-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -77,5 +82,18 @@ A selection of my music posted on Instagram
 {% include instagram.html id="BddQkwXgnIw" %}
 
 {% include instagram.html id="BdajbDiAg_A" %}
+
+# Scoring
+
+## Dom Perignon
+
+<iframe src="https://player.vimeo.com/video/60376714?color=bfc0c0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/60376714">Dom P&eacute;rignon celebrates Creator Jitish Kallat</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Terminal 2 at Mumbai International Airport
+
+<iframe src="https://player.vimeo.com/video/80312768?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/80312768">Terminal 2 at Mumbai International Airport by CH2M Hill [Project Manager interview]</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 <script async src="//www.instagram.com/embed.js"></script>
