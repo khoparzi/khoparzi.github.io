@@ -5,7 +5,8 @@ subtitle:
 ---
 
 ## Hasselblad - Into the Polar Night
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kZU7dfoDry8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZU7dfoDry8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Aston Martin Racing:
 <iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLMb2quoCd8rfwTPQnXDrJugWYOuMuKcCP" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
