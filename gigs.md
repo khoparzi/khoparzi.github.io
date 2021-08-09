@@ -6,7 +6,7 @@ gigs: true
   <h2>Recent Features</h2>
   <ul>
     <li><a href="https://www.thewildcity.com/features/18650-the-cult-of-the-code-decoding-algorave-its-future-in-south-asia">The Cult Of The Code: Decoding Algorave & Its Future In South Asia</li>
-    <li><a href="https://www.vogue.in/culture-and-living/content/25-must-visit-art-exhibits-in-and-around-india-you-need-to-check-out">25 must-visit art exhibits in and around India you need to check out</a> - Vogue India</li>
+    <li><a href="https://www.vogue.in/culture-and-living/content/25-must-visit-art-exhibits-in-and-around-india-you-need-to-check-out">25 must-visit art exhibits in and around India you need to check out</a></li>
   </ul>
   <h2>Works</h2>
   <ul>
