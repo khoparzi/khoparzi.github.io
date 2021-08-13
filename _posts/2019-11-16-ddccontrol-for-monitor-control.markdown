@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "DDCControl for monitor control"
-date: "2021-08-13 15:35:26 +0530"
+date: "2019-11-16 11:35:26 +0530"
+last-updated: "2021-08-13 15:35:26 +0530"
 tags: [nvidia, jetson, nano, embedded, linux, monitor, i2c]
 ---
 
