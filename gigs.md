@@ -5,15 +5,11 @@ gigs: true
 <div class="col-md-8">
     <h2>Gigs/workshops</h2>
   <ul>
-    {% for gig in site.data.gigs %}
-      {% increment gig_counter %}
+    {% for gig in site.data.gigs | limit: 5 %}
       {% if gig.link contains "http" %}
       <li><a href="{{ gig.link }}">{{ gig.date }}: {{ gig.name }} - {{ gig.location }}</a></li>
       {% else %}
       <li>{{ gig.date }}: {{ gig.name }} - {{ gig.location }}</li>
-      {% endif %}
-      {% if gig_counter > 6 %}
-        {% break %}
       {% endif %}
     {% endfor %}
   </ul>
