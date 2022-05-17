@@ -3,6 +3,20 @@ layout: page
 gigs: true
 ---
 <div class="col-md-8">
+    <h2>Gigs/workshops</h2>
+  <ul>
+    {% for gig in site.data.gigs %}
+      {% increment gig_counter %}
+      {% if gig.link contains "http" %}
+      <li><a href="{{ gig.link }}">{{ gig.date }}: {{ gig.name }} - {{ gig.location }}</a></li>
+      {% else %}
+      <li>{{ gig.date }}: {{ gig.name }} - {{ gig.location }}</li>
+      {% endif %}
+      {% if gig_counter > 6 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </ul>
   <h2>Recent Features</h2>
   <ul>
     <li><a href="https://www.thewildcity.com/features/18650-the-cult-of-the-code-decoding-algorave-its-future-in-south-asia">The Cult Of The Code: Decoding Algorave and Its Future In South Asia</a></li>
@@ -16,15 +30,5 @@ gigs: true
   <ul>
     <li><a href="https://khoparzi.bandcamp.com/album/circadia">Circadia</a></li>
     <li><a href="https://youtu.be/C0fIfrlbcfo">GitHub India Satellite 2021, Day 2: Opening performance</a></li>
-  </ul>
-  <h2>Gigs/workshops</h2>
-  <ul>
-    {% for gig in site.data.gigs %}
-      {% if gig.link contains "http" %}
-      <li><a href="{{ gig.link }}">{{ gig.date }}: {{ gig.name }} - {{ gig.location }}</a></li>
-      {% else %}
-      <li>{{ gig.date }}: {{ gig.name }} - {{ gig.location }}</li>
-      {% endif %}
-    {% endfor %}
   </ul>
 </div>
