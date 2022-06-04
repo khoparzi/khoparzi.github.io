@@ -18,7 +18,7 @@ layout: base
     <div class="gig-col col-md-1">
       <h2>Gigs/workshops</h2>
       <ul>
-        {% for gig in site.data.gigs | limit: 10 %}
+        {% for gig in site.data.gigs | limit: 5 %}
           {% if gig.link contains "http" %}
           <li><a href="{{ gig.link }}">{{ gig.date }}: {{ gig.name }} - {{ gig.location }}</a></li>
           {% else %}
