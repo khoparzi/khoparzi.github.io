@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Karan Gour - Bio
-subtitle: Karan Gour's Autobio in the 3rd person
+subtitle: Karan Gour's Autobiography 
 ---
-![Karan Gour](http://khoparzi.com/img/karan-gour.png)
+![Karan Gour](https://khoparzi.com/img/karan-gour.png)
 
 Karan Gour grew up in the quaint south Indian hill station of Kodaikanal. Music took up most of his time as he always found himself intrigued and drawn towards it. After university, he signed up for a course in sound engineering in Mumbai to nurture his passion for sound and music.
 
