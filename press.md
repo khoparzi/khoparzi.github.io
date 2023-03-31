@@ -18,6 +18,8 @@ subtitle:
 
 [Do robots dream of electronic beats? Algorave and programming as performance - A humming Heart](https://ahummingheart.com/features/long-reads/do-robots-dream-of-electronic-beats-algorave-and-programming-as-performance)
 
+[Homegrown 'Algoraves' Are Blurring The Lines Between Artists & Engineers](https://homegrown.co.in/homegrown-creators/homegrown-algoraves-are-blurring-the-lines-between-artists-engineers)
+
 
 ## Music ##
 
