@@ -6,6 +6,12 @@ subtitle:
 
 ## Algorave ##
 
+[Is algorithmically generated music the future of clubbing? - Kasmin Fernandes writing for the Free Press Journal](https://www.freepressjournal.in/weekend/is-algorithmically-generated-music-the-future-of-clubbing)
+
+[Abhinay Khoparzi: Most of Bollywood music today is electronic - Sonia Lulla writing for Midday](https://www.mid-day.com/entertainment/bollywood-news/article/abhinay-khoparzi-most-of-the-bollywood-music-today-is-electronic-too-23283857)
+
+[The Cult Of The Code: Decoding Algorave & Its Future In South Asia - Prarthna Mitra writing for Wild City](https://www.thewildcity.com/features/18650-the-cult-of-the-code-decoding-algorave-its-future-in-south-asia)
+
 [Type and jive - Anjuly Mathai writing for the The Week](https://www.theweek.in/theweek/leisure/2020/04/04/type-and-jive.html)
 
 [Coded World - Episode 4: Future - Channel News Asia (Video Documentary)](https://www.channelnewsasia.com/news/video-on-demand/coded-world/future-11945306)
