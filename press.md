@@ -6,6 +6,8 @@ subtitle:
 
 ## Algorave ##
 
+[Code-word: Paintbrush - Melvin Matthew writes for Bangalore Mirror](https://bangaloremirror.indiatimes.com/bangalore/others/crash-landing/articleshow/100604685.cms)
+
 [Is algorithmically generated music the future of clubbing? - Kasmin Fernandes writing for the Free Press Journal](https://www.freepressjournal.in/weekend/is-algorithmically-generated-music-the-future-of-clubbing)
 
 [Abhinay Khoparzi: Most of Bollywood music today is electronic - Sonia Lulla writing for Midday](https://www.mid-day.com/entertainment/bollywood-news/article/abhinay-khoparzi-most-of-the-bollywood-music-today-is-electronic-too-23283857)
