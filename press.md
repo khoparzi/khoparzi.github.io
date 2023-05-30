@@ -6,7 +6,7 @@ subtitle:
 
 ## Algorave ##
 
-[Code-word: Paintbrush - Melvin Matthew writes for Bangalore Mirror](https://bangaloremirror.indiatimes.com/bangalore/others/crash-landing/articleshow/100604685.cms)
+[Code-word: Paintbrush - Melvin Matthew writes for Bangalore Mirror](https://bangaloremirror.indiatimes.com/bangalore/others/code-word-paintbrush/articleshow/100602768.cmslanding/articleshow/100604685.cms)
 
 [Is algorithmically generated music the future of clubbing? - Kasmin Fernandes writing for the Free Press Journal](https://www.freepressjournal.in/weekend/is-algorithmically-generated-music-the-future-of-clubbing)
 
