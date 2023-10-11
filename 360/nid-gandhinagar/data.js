@@ -24,25 +24,19 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.003101857715876122,
-        "pitch": 0.219508717462368,
+        "yaw": -0.01062239314257063,
+        "pitch": 0.23227693382055214,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": [
+      "linkHotspots": [
         {
-          "yaw": -0.2925359949899935,
-          "pitch": 0.18600518770341345,
-          "title": "NID Gandhinagar",
-          "text": "<p style=\"-webkit-font-smoothing: antialiased; backface-visibility: hidden; margin-bottom: 2rem; font-size: 18px; color: rgb(99, 99, 99); line-height: 30px; font-weight: lighter; font-family: Raleway; font-style: normal; font-variant-caps: normal; text-size-adjust: auto;\">Located in the capital city of Gandhinagar, Gujarat, NID- Gandhinagar campus offers full time residential program in M.Des (Master of Design) across seven disciplines (Lifestyle Accessory Design, Apparel Design, New media design, Toy and Game Design, Photography Design, Strategic Design Management, and Transportation &amp; Automobile Design), at the moment.</p><p style=\"-webkit-font-smoothing: antialiased; backface-visibility: hidden; margin-bottom: 2rem; font-size: 18px; color: rgb(99, 99, 99); line-height: 30px; font-weight: lighter; font-family: Raleway; font-style: normal; font-variant-caps: normal; text-size-adjust: auto;\">The campus houses facilities and resources (Knowledge Management Center, Central workshop (wood /metal), Laser cutting, CNC machine, 3D printing, Digital lab, and discipline specific labs/studios) that provide students with a gamut of learning opportunities and help them enhance their creativity. The campus also has an all-new auditorium/ amphi-theatre for holding conferences and cultural events besides a Design Gallery that witnesses frequent exhibitions.</p><p style=\"-webkit-font-smoothing: antialiased; backface-visibility: hidden; margin-bottom: 2rem; font-size: 18px; color: rgb(99, 99, 99); line-height: 30px; font-weight: lighter; font-family: Raleway; font-style: normal; font-variant-caps: normal; text-size-adjust: auto;\">The campus is also the home to the ICNF (Innovation Centre for Natural Fibre), that is actively engaged in finding design applications for natural fibres.</p>"
-        },
-        {
-          "yaw": 0.21615208436297095,
-          "pitch": 0.7268855735575279,
-          "title": "History of NID",
-          "text": "<span style=\"caret-color: rgb(99, 99, 99); color: rgb(99, 99, 99); font-family: Raleway; font-size: 18px; text-size-adjust: auto; background-color: rgb(255, 255, 255);\">NID’s establishment in 1961 and the growth thereafter.The establishment of NID was a result of several forces, both global and local. The late 1950s saw a confluence of these forces, and this time would be a significant one for Indian culture and education. This was a time of reappraisal and reconstruction in a newly independent India. A young nation was confronted with the mammoth task of nation building, of balancing age-old traditions with modern technology and ideas. The Modern Movement, the philosophy of Machine Aesthetics, and revolutionary experimentation in the arts, architecture and design were all taking place at the same time. There was a search for the Indian identity across all aspects of life.</span>"
+          "yaw": 0.037756097711188374,
+          "pitch": 0.6416966194395197,
+          "rotation": 0,
+          "target": "1-parking"
         }
-      ]
+      ],
+      "infoHotspots": []
     },
     {
       "id": "1-parking",
@@ -68,11 +62,36 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.32409224726110963,
-        "pitch": 0.9691960386665244,
+        "yaw": -0.06022790257742194,
+        "pitch": 0.7431726704629362,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -0.439602368959239,
+          "pitch": 0.5129569416046991,
+          "rotation": 0,
+          "target": "3-circle-garden"
+        },
+        {
+          "yaw": -0.7086133027940491,
+          "pitch": 0.3021406015370971,
+          "rotation": 0,
+          "target": "2-buildings-far"
+        },
+        {
+          "yaw": 0.029980182362701058,
+          "pitch": 0.26362839800535376,
+          "rotation": 0,
+          "target": "5-amphitheatre"
+        },
+        {
+          "yaw": -0.561512605410087,
+          "pitch": 0.1991111541627184,
+          "rotation": 0,
+          "target": "4-teaching-buildings"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -99,8 +118,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.3070839138721766,
-        "pitch": 0.25408567182874364,
+        "yaw": 0.34255224344688884,
+        "pitch": 0.8789254888514346,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
@@ -130,8 +149,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.38773221448506234,
-        "pitch": 0.864602035294272,
+        "pitch": 0,
+        "yaw": 0,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
@@ -161,16 +180,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.9593777284212113,
-        "pitch": 0.7500538157119454,
+        "yaw": 0.8475650435058668,
+        "pitch": 0.8048887245487766,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "5-aphitheatre",
-      "name": "Aphitheatre",
+      "id": "5-amphitheatre",
+      "name": "Amphitheatre",
       "levels": [
         {
           "tileSize": 256,
@@ -192,53 +211,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.2789677523614191,
-        "pitch": 0.5749118968979836,
+        "yaw": 1.4785543556244454,
+        "pitch": 0.5473220041025897,
         "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 1.434011221073007,
-          "pitch": 0.4421400176679384,
-          "rotation": 0,
-          "target": "6-amphitheatre-close"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "6-amphitheatre-close",
-      "name": "Amphitheatre Close",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1488,
-      "initialViewParameters": {
-        "yaw": 3.078097417453897,
-        "pitch": 0.18741993118292477,
-        "fov": 1.427448757889531
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "7-mess-hall",
+      "id": "6-mess-hall",
       "name": "Mess hall",
       "levels": [
         {
@@ -261,16 +242,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.6378901298253288,
-        "pitch": 1.040311087266506,
+        "yaw": 1.6071138975577188,
+        "pitch": 0.8807654225562604,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "8-birds-eye-view",
-      "name": "Birds eye view",
+      "id": "7-birds-eye-view-left",
+      "name": "Birds eye view left",
       "levels": [
         {
           "tileSize": 256,
@@ -292,8 +273,39 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.864575134210309,
-        "pitch": 0.9276426658168617,
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-birds-eye-view-right",
+      "name": "Birds eye view right",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.075839468989468,
+        "pitch": 0.7433064269836933,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [],
@@ -302,8 +314,8 @@ var APP_DATA = {
   ],
   "name": "NID Gandhinagar",
   "settings": {
-    "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "mouseViewMode": "qtvr",
+    "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
