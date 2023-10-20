@@ -69,13 +69,13 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 * UI DESIGN Studio Mesmer and Trusha Sawant
 * CO-WRITER FOR BOOK Supriya Vohra (independent journalist)
 
-[Chapter 2](art/osmoscape/chap-2.jpg)
+![Chapter 2](art/osmoscape/chap-2.jpg)
 
-[Chapter 3](art/osmoscape/chap-3.jpg)
+![Chapter 3](art/osmoscape/chap-3.jpg)
 
-[Chapter 4](art/osmoscape/chap-4.jpg)
+![Chapter 4](art/osmoscape/chap-4.jpg)
 
-[Chapter 5 and 6](art/osmoscape/chap-5-6.jpg)
+![Chapter 5 and 6](art/osmoscape/chap-5-6.jpg)
 
 ## Shader Art
 
