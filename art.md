@@ -80,3 +80,5 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 ## Shader Art
 
 [Marching with Julia Fractals](marching.md) a month's worth of Marching.js sketches exploring various experiments with Julia fractals through the month of July 2020
+
+<script async src="//www.instagram.com/embed.js"></script>
