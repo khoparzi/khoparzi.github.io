@@ -22,7 +22,7 @@ Patterns emerge from monotones of traditional world tunings as they curve into t
 
 ![Collab-Scape at Serendipty Art Festival](art/collabscape/visitors.jpg)
 
-![Collab-Scape at Serendipty Art Festival, Goa](art/collabscape/visitors-1080p.mov)
+![Collab-Scape at Serendipty Art Festival, Goa](art/collabscape/visitors-1080p.mp4)
 
 ### Technical Details
 
@@ -61,13 +61,12 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 “OsmoScape” explores a graphical notation score, where data and graphs related to water have been arranged to form a sound score and a book.  The found data was then converted into an image using processing code that becomes the visual bases of a score, leading eventually to sound compositions being constructed out of user engagement via a WebApp, exploring a new way of archiving 55 datasets with their stories and sounds.
 
 * Concept, Project Management and System Design by Nandita Kumar
-* CREATIVE DEVELOPERS TimeBlur Studios | Himanshu Erande
+* CREATIVE DEVELOPERS TimeBlur Studios and Himanshu Erande
 * DATA VISUALIZATION IN PROCESSING Abhinay Khoparzi
 * SOUND DESIGN Jacob Bergson
 * SOUND INTERACTION FOR WEBAPP Sound.Codes
 * GRAPHIC DESIGN/BOOK DESIGN Trusha Sawant
-* UI DESIGN
-* Studio Mesmer | Trusha Sawant
+* UI DESIGN Studio Mesmer and Trusha Sawant
 * CO-WRITER FOR BOOK Supriya Vohra (independent journalist)
 
 [Chapter 2](art/osmoscape/chap-2.jpg)
