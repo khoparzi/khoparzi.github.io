@@ -6,6 +6,8 @@ subtitle:
 
 ## Kshay or Corrode, 2012
 
+![Kshay](img/kshay-2012.jpg)
+
 [IMDB](https://www.imdb.com/title/tt1669648/)
 
 Introducing the talented face of [Rasika Dugal](https://en.wikipedia.org/wiki/Rasika_Dugal) in her first lead role opposite Alekh Sangal, it took two men (writer/director [Karan Gour](karan-gour.md) and cinematographer, technical director and VFX Lead Abhinay Khoparzi) four years and $10,000 to complete Corrode. Besides writing and directing, Karan also edited the film, composed the music and the sound design. 
@@ -16,6 +18,8 @@ Corrode went on to be a breakthrough, critically-acclaimed indie, which won awar
 For Karan and Abhinay, Corrode was more than just a stepping stone into films. It taught them things about filmmaking that no film school could ever teach. How to grapple with frustration, how to get a film’s aesthetic to inform the narrative while maintaining alignment with the film’s budget – the delicate ratio of compromise. Needless to say, a feature film done in such circumstances takes an enormous amount of focus and dedication. 
 
 ## Fairy Folk, 2022
+
+![Fairy Folk](img/fairy-folk-2022.jpg)
 
 [IMDB](https://www.imdb.com/title/tt20202992/)
 
@@ -28,3 +32,5 @@ Featuring a cast with the likes of Mukul Chadda and Rasika Dugal, Abhinay’s se
 {% include instagram.html id="Cj7yAAIS8rV" %}
 
 {% include instagram.html id="CeeaPoSDDyG" %}
+
+<script async src="//www.instagram.com/embed.js"></script>
