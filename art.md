@@ -4,7 +4,7 @@ title: Art
 subtitle:
 ---
 
-## Collab-Scape, 2020
+## Collab-Scape, 2020 and 2022
 
 Patterns emerge from monotones of traditional world tunings as they curve into the creation of new sounds activated by viewer participation. Partakers unconsciously activate their region’s tuning system by allowing their internet connection to pick up analytics of their location data. As visitors immerse themselves in communicating with other dots on the screen, they become unknowing collaborators of new tones and tunes. The tones produced, almost untraceable to their source while they begin to pull themselves out from a growing dictionary of scales and tuning systems. When more people begin to ride these sound waves, a rhythm develops. This rhythm slowly brainwashes the mind into a hypnotic massage of wanting to stay when you have to leave.
 
@@ -32,7 +32,7 @@ The next step was using custom tunings, more elaborate compositions, and a major
 
 Ashish has written more about his work with Collab-Scape and our collaboration with Samarth Gulati in producing Future Landing on [his blog](http://ashishdubey.xyz/interactive-soundscape-on-web.html) and also [open sourced the code](https://github.com/dash1291/collabscape) for others to enjoy and develop further.
 
-## Metro Sonata
+## Metro Sonata, 2019
 
 ![Metro Sonata at Goethe-Institut / Max Mueller Bhavan](art/metro-sonata/metro-sonata_web.jpg)
 
@@ -54,7 +54,7 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 
 {% include instagram.html id="B3gYls0nSrt" %}
 
-## Osmoscape
+## Osmoscape, 2017
 
 [Osmoscape](art/osmoscape/title.jpg)
 
