@@ -14,13 +14,13 @@ Patterns emerge from monotones of traditional world tunings as they curve into t
 * Tuning systems based on the amazing work by Andrew Bernstein & Ben Taylor, porting Victor Cerullo's exhaustive Scala tuning archive
 * Sequencing on the webaudio API with Yotam Mann's Tone.js
 
-[![Collab Scape on Future Landing]({art/collabscape/new-grab-still.jpg})]({art/collabscape/newgrab.mp4} "Collab Scape at Future Landing, Serendipty Art Festival")
+[Collab Scape at Future Landing, Serendipty Art Festival](art/collabscape/newgrab.mp4){:.no-lightbox}
 
 ![Collab Scape at Serendipty Art Festival, Goa](art/collabscape/basic-install.jpg)
 
 ![Collab Scape at Serendipty Art Festival](art/collabscape/visitors.jpg)
 
-[![Collab Scape on Future Landing]({art/collabscape/visitors-still.jpg})]({art/collabscape/visitors-1080p.mov} "Collab Scape at Future Landing, Serendipty Art Festival")
+[Collab Scape at Serendipty Art Festival, Goa](art/collabscape/visitors-1080p.mov){:.no-lightbox}
 
 ### Technical Details
 
