@@ -6,8 +6,6 @@ subtitle:
 
 ## Collabscape
 
-Collabscape
-
 Patterns emerge from monotones of traditional world tunings as they curve into the creation of new sounds activated by viewer participation. Partakers unconsciously activate their region’s tuning system by allowing their internet connection to pick up analytics of their location data. As visitors immerse themselves in communicating with other dots on the screen, they become unknowing collaborators of new tones and tunes. The tones produced, almost untraceable to their source while they begin to pull themselves out from a growing dictionary of scales and tuning systems. When more people begin to ride these sound waves, a rhythm develops. This rhythm slowly brainwashes the mind into a hypnotic massage of wanting to stay when you have to leave.
 
 Sound design and composition by Abhinay Khoparzi
@@ -15,6 +13,14 @@ Visuals on [Olivia Jack](https://ojack.xyz)'s [Hydra Synth](https://hydra.ojack.
 Based on an Initial sketch and websockets engine by [Ashish Dubey](https://instagram.com/dash1291)
 Tuning systems based on the amazing work by Andrew Bernstein & Ben Taylor, porting Victor Cerullo's exhaustive Scala tuning archive
 Sequencing on the webaudio API with Yotam Mann's Tone.js
+
+[![Collab Scape on Future Landing]({art/collabscape/new-grab-still.jpg})]({art/collabscape/newgrab.mp4} "Collab Scape at Future Landing, Serendipty Art Festival")
+
+![Collab Scape at Serendipty Art Festival, Goa](art/collabscape/basic-install.jpg)
+
+![Collab Scape at Serendipty Art Festival](art/collabscape/visitors.jpg)
+
+[![Collab Scape on Future Landing]({art/collabscape/visitors-still.jpg})]({art/collabscape/visitors-1080p.mov} "Collab Scape at Future Landing, Serendipty Art Festival")
 
 ### Technical Details
 
