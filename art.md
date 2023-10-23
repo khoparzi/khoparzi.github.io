@@ -58,7 +58,7 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 
 ![Osmoscape](art/osmoscape/title.jpg)
 
-“OsmoScape” explores a graphical notation score, where data and graphs related to water have been arranged to form a sound score and a book.  The found data was then converted into an image using processing code that becomes the visual bases of a score, leading eventually to sound compositions being constructed out of user engagement via a WebApp, exploring a new way of archiving 55 datasets with their stories and sounds.
+[“OsmoScape”](https://app.osmoscape.com) explores a graphical notation score, where data and graphs related to water have been arranged to form a sound score and a book.  The found data was then converted into an image using processing code that becomes the visual bases of a score, leading eventually to sound compositions being constructed out of user engagement via a WebApp, exploring a new way of archiving 55 datasets with their stories and sounds.
 
 * Concept, Project Management and System Design by [Nandita Kumar](https://nanditakumar.com)
 * CREATIVE DEVELOPERS [TimeBlur Studios](https://timeblur.io) and Himanshu Erande
