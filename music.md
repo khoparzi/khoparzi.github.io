@@ -6,8 +6,6 @@ subtitle:
 
 # Scoring
 
-## Dom Perignon
-
 {% include vimeo.html id="60376714" %}
 
 Dom P&eacute;rignon celebrates Creator Jitish Kallat
@@ -19,6 +17,8 @@ Terminal 2 at Mumbai International Airport by CH2M Hill [Project Manager intervi
 Produced by <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> for Glyph.tv
 
 ## Performances
+
+Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list=PLM5Fk0Nc7zS4D2z981zXaquy03ew1e0_R)
 
 {% include youtube.html id="enpCqkiEOn4" %}
 
@@ -44,16 +44,23 @@ Produced by <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> for Gly
 
 [EulerRoom Equinox Stream March 2020](https://www.youtube.com/watch?v=Z3So961gYg4)
 
+{% include youtube.html id="8tjoSUdvl-E" %}
+
+[Sba0h0r0/Khoparzi at Generative Degenrate - 3rd August 2019](https://www.youtube.com/watch?v=8tjoSUdvl-E)
+
 ## Original music
 
-### Dancers of Combine Overlords
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3230792351/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://khoparzi.bandcamp.com/album/circadia">Circadia by khoparzi</a></iframe>
+
+Assembled from field recordings done over a course of two years processed with electoracousitc techniques, Circadia is an exploration of a sonic ecology from far into the future.
+
+Released February 5, 2021
+Written, Recorded, and Produced by Abhinay Khoparzi
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3304685954/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://khoparzi.bandcamp.com/track/dancers-of-combine-overlords">Dancers of Combine Overlords by khoparzi</a></iframe>
 
 <iframe src="https://player.vimeo.com/video/426673865" width="640" height="478" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/426673865">Dancers of Combine Overlords</a> from <a href="https://vimeo.com/khoparzi">Abhinay Khoparzi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list=PLM5Fk0Nc7zS4D2z981zXaquy03ew1e0_R)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8tjoSUdvl-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cWpRa7l04sQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
