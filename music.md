@@ -8,25 +8,41 @@ subtitle:
 
 ## Dom Perignon
 
-<iframe src="https://player.vimeo.com/video/60376714?color=bfc0c0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/60376714">Dom P&eacute;rignon celebrates Creator Jitish Kallat</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{% include vimeo.html id="60376714" %}
 
-## Terminal 2 at Mumbai International Airport
+Dom P&eacute;rignon celebrates Creator Jitish Kallat
+Produced by <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> for Glyph.tv
 
 {% include vimeo.html id="80312768" %}
 
-<iframe src="https://player.vimeo.com/video/80312768?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/80312768">Terminal 2 at Mumbai International Airport by CH2M Hill [Project Manager interview]</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Terminal 2 at Mumbai International Airport by CH2M Hill [Project Manager interview]
+Produced by <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> for Glyph.tv
 
 ## Performances
+
+AV Performance with TidalCycles and Hydra - Festival X, Dubai
 
 {% include youtube.html id="enpCqkiEOn4" %}
 
 [Ophelia.Game, Beatnyk, Okbaj and Khoparzi at Dreamy Place - 23 Oct, 2023](https://www.youtube.com/watch?v=9jNpkXMjk5w)
+
+{% include youtube.html id="9jNpkXMjk5w" %}
+
 [GitHub Constellation India 2022 - Day 2 Opening Performance](https://www.youtube.com/watch?v=JoIkpXWdRzI)
+
+{% include youtube.html id="JoIkpXWdRzI" %}
+
 [Algorave 10th Anniversary Performance - March 2022](https://www.youtube.com/watch?v=gTFcm84StxU)
+
+{% include youtube.html id="gTFcm84StxU" %}
+
 [TidalCycles + Hydra Live Coded Performance - GitHub Universe 2020](https://www.youtube.com/watch?v=nmjmmDvLkT0)
+
+{% include youtube.html id="nmjmmDvLkT0" %}
+
 [EulerRoom Equinox Stream March 2020](https://www.youtube.com/watch?v=Z3So961gYg4)
+
+{% include youtube.html id="Z3So961gYg4" %}
 
 ## Original music
 
