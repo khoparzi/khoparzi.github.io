@@ -1,0 +1,4 @@
+[submodule "samples/supercontinent"]
+	path = samples/supercontinent
+	url = http://github.com/khoparzi/supercontinent
+	branch = reslist
