@@ -52,7 +52,7 @@ Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3230792351/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://khoparzi.bandcamp.com/album/circadia">Circadia by khoparzi</a></iframe>
 
-Assembled from field recordings done over a course of two years processed with electoracousitc techniques, Circadia is an exploration of a sonic ecology from far into the future.
+Assembled from field recordings done over a course of two years and processed with electoracoustic techniques, [Circadia](https://khoparzi.bandcamp.com/album/circadia) is an exploration of a sonic ecology from far into the future.
 
 Released February 5, 2021
 Written, Recorded, and Produced by Abhinay Khoparzi
