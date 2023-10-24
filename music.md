@@ -4,7 +4,33 @@ title: Music
 subtitle:
 ---
 
-## Dancers of Combine Overlords
+# Scoring
+
+## Dom Perignon
+
+<iframe src="https://player.vimeo.com/video/60376714?color=bfc0c0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/60376714">Dom P&eacute;rignon celebrates Creator Jitish Kallat</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Terminal 2 at Mumbai International Airport
+
+{% include vimeo.html id="80312768" %}
+
+<iframe src="https://player.vimeo.com/video/80312768?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/80312768">Terminal 2 at Mumbai International Airport by CH2M Hill [Project Manager interview]</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Performances
+
+{% include youtube.html id="gTFcm84StxU" %}
+
+[Ophelia.Game, Beatnyk, Okbaj and Khoparzi at Dreamy Place - 23 Oct, 2023](https://www.youtube.com/watch?v=9jNpkXMjk5w)
+[GitHub Constellation India 2022 - Day 2 Opening Performance](https://www.youtube.com/watch?v=JoIkpXWdRzI)
+[Algorave 10th Anniversary Performance - March 2022](https://www.youtube.com/watch?v=gTFcm84StxU)
+[TidalCycles + Hydra Live Coded Performance - GitHub Universe 2020](https://www.youtube.com/watch?v=nmjmmDvLkT0)
+[EulerRoom Equinox Stream March 2020](https://www.youtube.com/watch?v=Z3So961gYg4)
+
+## Original music
+
+### Dancers of Combine Overlords
 
 <iframe src="https://player.vimeo.com/video/426673865" width="640" height="478" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/426673865">Dancers of Combine Overlords</a> from <a href="https://vimeo.com/khoparzi">Abhinay Khoparzi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -23,7 +49,7 @@ Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list
 
 A selection of my music posted on Instagram
 
-{% include instagram.html id="BrlGRCiH1Rd" %}
+{% include instagram.html id="CLB7M2VJJkC" %}
 
 {% include instagram.html id="BreJt4rHRzZ" %}
 
@@ -82,18 +108,5 @@ A selection of my music posted on Instagram
 {% include instagram.html id="BddQkwXgnIw" %}
 
 {% include instagram.html id="BdajbDiAg_A" %}
-
-# Scoring
-
-## Dom Perignon
-
-<iframe src="https://player.vimeo.com/video/60376714?color=bfc0c0&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/60376714">Dom P&eacute;rignon celebrates Creator Jitish Kallat</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-## Terminal 2 at Mumbai International Airport
-
-<iframe src="https://player.vimeo.com/video/80312768?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/80312768">Terminal 2 at Mumbai International Airport by CH2M Hill [Project Manager interview]</a> from <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 
 <script async src="//www.instagram.com/embed.js"></script>
