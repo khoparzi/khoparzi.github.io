@@ -20,3 +20,5 @@ In 2018, filmmaker/visualist [Dhanya Pilo](http://dhanyapilo.com/) and I co-inst
 Since 2018 I have been collaborating with artists from all over the world with network music performances with the intercontinental live coding ensemble Supercontinent. SuperContinent is a project led by David Ogborn of the McMasters University Networked Imagination Lab and has artists that are each at least 3000 kms apart and perform on a unique performance platform called Estuary. Earlier in 2020 I also started playing with another remote ensemble called Algomech that is a collaboration between CiLC Argentina and Algorave India.
 
 I hold diplomas in Web Technologies, Sound Engineering, and Video Post Production from various schools in India and have a Master’s in Television Production from Birmingham City University, UK
+
+[Latest CV and Resume](/Abhinay-Khoparzi-Resume-June-2023.pdf)
