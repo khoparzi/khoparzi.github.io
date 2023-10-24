@@ -2,3 +2,6 @@
 	path = samples/supercontinent
 	url = http://github.com/khoparzi/supercontinent
 	branch = reslist
+[submodule "samples/public-samples"]
+	path = samples/public-samples
+	url = http://github.com/khoparzi/public-samples
