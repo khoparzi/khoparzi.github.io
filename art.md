@@ -79,8 +79,8 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 
 ## Shader Art
 
-[Marching with Julia Fractals](shader-art/julia.md) a month's worth of Marching.js sketches exploring various experiments with Julia fractals through the month of July 2020
+[Julia Fractals of 2020](shader-art/julia.md), a month's worth of sketches exploring various experiments with Julia fractals through the month of July 2020
 
-[Marching with Julia Fractals](shader-art/marching.md) a month's worth of Marching.js sketches exploring various experiments with Signed Distance Fields and combinatorial geometries through the month of March 2021.
+[Marching signed distance fields](shader-art/marching.md), a month's worth of Marching.js sketches exploring various experiments with Signed Distance Fields and combinatorial geometries through the month of March 2021.
 
 <script async src="//www.instagram.com/embed.js"></script>
