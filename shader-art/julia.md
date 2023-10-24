@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visuals with Marching.js
+title: Exploring Julia fractals with Marching.js
 subtitle:
 ---
 
