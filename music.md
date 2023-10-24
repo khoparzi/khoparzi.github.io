@@ -20,29 +20,29 @@ Produced by <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> for Gly
 
 ## Performances
 
-AV Performance with TidalCycles and Hydra - Festival X, Dubai
-
 {% include youtube.html id="enpCqkiEOn4" %}
 
-[Ophelia.Game, Beatnyk, Okbaj and Khoparzi at Dreamy Place - 23 Oct, 2023](https://www.youtube.com/watch?v=9jNpkXMjk5w)
+[AV Performance with TidalCycles and Hydra - Festival X, Dubai](https://www.youtube.com/watch?v=enpCqkiEOn4)
 
 {% include youtube.html id="9jNpkXMjk5w" %}
 
-[GitHub Constellation India 2022 - Day 2 Opening Performance](https://www.youtube.com/watch?v=JoIkpXWdRzI)
+[Ophelia.Game, Beatnyk, Okbaj and Khoparzi at Dreamy Place - 23 Oct, 2023](https://www.youtube.com/watch?v=9jNpkXMjk5w)
 
 {% include youtube.html id="JoIkpXWdRzI" %}
 
-[Algorave 10th Anniversary Performance - March 2022](https://www.youtube.com/watch?v=gTFcm84StxU)
+[GitHub Constellation India 2022 - Day 2 Opening Performance](https://www.youtube.com/watch?v=JoIkpXWdRzI)
 
 {% include youtube.html id="gTFcm84StxU" %}
 
-[TidalCycles + Hydra Live Coded Performance - GitHub Universe 2020](https://www.youtube.com/watch?v=nmjmmDvLkT0)
+[Algorave 10th Anniversary Performance - March 2022](https://www.youtube.com/watch?v=gTFcm84StxU)
 
 {% include youtube.html id="nmjmmDvLkT0" %}
 
-[EulerRoom Equinox Stream March 2020](https://www.youtube.com/watch?v=Z3So961gYg4)
+[TidalCycles + Hydra Live Coded Performance - GitHub Universe 2020](https://www.youtube.com/watch?v=nmjmmDvLkT0)
 
 {% include youtube.html id="Z3So961gYg4" %}
+
+[EulerRoom Equinox Stream March 2020](https://www.youtube.com/watch?v=Z3So961gYg4)
 
 ## Original music
 
@@ -67,15 +67,9 @@ A selection of my music posted on Instagram
 
 {% include instagram.html id="CLB7M2VJJkC" %}
 
-{% include instagram.html id="BreJt4rHRzZ" %}
-
-{% include instagram.html id="Brdia8an1_B" %}
-
 {% include instagram.html id="BrYHdn2Hhhh" %}
 
 {% include instagram.html id="BrTkobRnoyU" %}
-
-{% include instagram.html id="BrA4HBEAmaR" %}
 
 {% include instagram.html id="Bow2I9PBhtb" %}
 
