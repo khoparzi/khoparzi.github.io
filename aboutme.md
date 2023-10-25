@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: me
 subtitle: Why'd you like me to work for you
 ---
 
