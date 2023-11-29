@@ -3,11 +3,17 @@ layout: post
 title: Setting up vnc on the Nvidia Jetson Nano
 tags: [nvidia, jetson, nano, embedded, vnc, remote management, linux]
 ---
+
+> Update in Nov 2023
+
+> After of years of fighting with Vino and vnc I've abandoned trying to use vnc and have instead been successfully using xrdp on the Jetson Nano.
+> to install you just need to run `sudo apt install -y xrdp`
+
 Setting up vnc by fixing Vino
 
 Follow along the guide by hackster io [from here](https://blog.hackster.io/getting-started-with-the-nvidia-jetson-nano-developer-kit-43aa7c298797)
 
-> Enabling Desktop Sharing
+# Enabling Desktop Sharing
 
 > Unfortunately the instructions helpfully left on the Jetson’s desktop on how to enable the installed VNC server from the command line don’t work, and going ahead and opening the Settings application on the desktop and clicking on “Desktop Sharing” also fails as the Settings app silently crashes. A problem that appears to be down to an incompatibility with the older Gnome desktop.
 
