@@ -3,7 +3,11 @@ layout: post
 published: true
 title: Couple of intersting file sharing tools
 tags:
-  - file sharing - tools - productivity - zeroconf - workflow
+  - file sharing 
+  - tools 
+  - productivity 
+  - zeroconf 
+  - workflow
 ---
 ## Why bother with another file sharing tool?
 

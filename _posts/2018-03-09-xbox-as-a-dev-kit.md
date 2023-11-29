@@ -5,7 +5,7 @@ title: XBox as a Dev Kit
 tags:
   - unity
   - xbox
-  - creative coding
+  - creative-coding
   - installation art
 ---
 ## I missed this one

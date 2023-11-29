@@ -1,7 +1,15 @@
 ---
 layout: post
 title: Setting up Openframeworks on the Nvidia Jetson Nano
-tags: [nvidia, jetson, nano, embedded, linux, openframeworks, creative coding, glsl]
+tags: 
+    - nvidia
+    - jetson
+    - nano
+    - embedded
+    - linux
+    - openframeworks
+    - creative-coding
+    - glsl
 ---
 I've been meaning to crack open the Jetson and do something useful with it because it's just been months that it's been lying around and I haven't been able to do anything with it.
 

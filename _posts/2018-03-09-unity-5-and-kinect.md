@@ -6,7 +6,7 @@ tags:
   - unity
   - xbox
   - kinect
-  - creative coding
+  - creative-coding
 ---
 ## A useful tutorial here
 

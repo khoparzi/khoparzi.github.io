@@ -2,7 +2,16 @@
 layout: post
 title: "Running Kinect v1 on Jetson Nano"
 date: "2020-01-30 12:30:26 +0530"
-tags: [nvidia, jetson, nano, embedded, linux, openframeworks, creative coding, glsl, kinect, depth-camera]
+tags: 
+    - nvidia
+    - jetson-nano
+    - embedded
+    - linux
+    - openframeworks
+    - creative-coding
+    - glsl
+    - kinect
+    - depth-camera
 ---
 Last year I ended up working on an installation project that used a Kinect v2 camera. Since the pricing of the units are still pretty high in India even after MicroSoft moved on from them I decided to get a v1. The problem with those if you are not on windows, the hardware revision 1473 is hilariously unreliable on MacOS and linux. Also the fact that the libfreenect library  that comes with OpenFrameworks fails to connect made it practically useless to me.
 
