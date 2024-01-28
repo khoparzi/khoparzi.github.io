@@ -20,6 +20,10 @@ Produced by <a href="https://vimeo.com/sharadkalawar">Sharad Kalawar</a> for Gly
 
 Live coded performances playlist [YouTube](https://www.youtube.com/playlist?list=PLM5Fk0Nc7zS4D2z981zXaquy03ew1e0_R)
 
+{% include youtube.html id="uaeAIXh1d84" %}
+
+[Art of Code - Algorave, New Bel Road Social, Bengaluru](https://youtu.be/uaeAIXh1d84?si=-WGayCK2v1j315aN&t=697)
+
 {% include youtube.html id="enpCqkiEOn4" %}
 
 [AV Performance with TidalCycles and Hydra - Festival X, Dubai](https://www.youtube.com/watch?v=enpCqkiEOn4)
