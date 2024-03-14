@@ -41,6 +41,20 @@ subtitle:
 
 [Bleepin' Intriguing, Mumbai Mirror, 2009](https://mumbaimirror.indiatimes.com/entertainment/music/bleepin-intriguing/articleshow/15923167.cms)
 
+## Fairy Folk ##
+
+[Mirzapur actress Rasika Dugal on her indie film Fairy Folk - Telegraph India](https://www.telegraphindia.com/entertainment/mirzapur-actress-rasika-dugal-on-her-indie-film-fairy-folk/cid/2003348)
+
+[Behind the Scenes of “Fairy Folk”: Unconventional Drama Challenges Narrative Norms](https://www.digitalstudioindia.com/production/cinema/behind-the-scenes-of-fairy-folk-unconventional-drama-challenges-narrative-norms)
+
+[‘FAIRY FOLK’ REVIEW - Film Information](https://filminformation.com/featured/fairy-folk-review-1-march-2024/)
+
+[Fairy Folk Review: Marriage Story With A Twist - Rediff India](https://www.rediff.com/movies/report/fairy-folk-review-marriage-story-with-a-twist/20240301.htm)
+
+[The Absurdity of Fairy Folk - Platform Mag](https://www.platform-mag.com/film/the-absurdity-of-fairy-folk.html)
+
+[‘Fairy Folk’ movie review: An unusual urban fantasy that exposes the reality of corroding relationships - The Hindu](https://www.thehindu.com/entertainment/movies/fairy-folk-movie-review-an-unusual-urban-fantasy-that-exposes-the-reality-of-corroding-relationships/article67916159.ece)
+
 ## Kshay ##
 
 [Corrode, Review](https://variety.com/2011/film/reviews/corrode-1117946453/)
