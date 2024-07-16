@@ -43,6 +43,8 @@ subtitle:
 
 ## Fairy Folk ##
 
+[‘Fairy Folk’ review: An ingenious marriage story](https://www.livemint.com/mint-lounge/fairy-folk-review-indie-film-rasika-dugal-mukul-chadda-karan-gour-11721050276140.html)
+
 [Mirzapur actress Rasika Dugal on her indie film Fairy Folk - Telegraph India](https://www.telegraphindia.com/entertainment/mirzapur-actress-rasika-dugal-on-her-indie-film-fairy-folk/cid/2003348)
 
 [Behind the Scenes of “Fairy Folk”: Unconventional Drama Challenges Narrative Norms](https://www.digitalstudioindia.com/production/cinema/behind-the-scenes-of-fairy-folk-unconventional-drama-challenges-narrative-norms)
