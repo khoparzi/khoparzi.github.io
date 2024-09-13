@@ -24,12 +24,12 @@ For Karan and Abhinay, Corrode was more than just a stepping stone into films. I
 
 [Instagram](https://www.instagram.com/fairyfolkthefilm/)
 
-Featuring a cast with the likes of Mukul Chadda and Rasika Dugal, Abhinay’s second feature film collaboration with Karan, Fairy Folk, is currently looking for distribution platforms. This time too, the duo handled deparments all over the production, albeit with more resources than they ever had on Corrode. Produced by Empatheia Films, the duo's production imprint and Bala Wala Films led by actor/producer Annukampa Harsh, the film has also been supported by Awe Films and Accord Equips. Fairy folk made its debut in the festival circuit at Sydney International Film festival, playing the first screening at Event Cinemas in downtown Sydney and New Town Cinemas in the art district. The film went on to engage audiences at Indian Film Festival of Melbourne, and Chicago International Film Festival where it was nominated for a Q-Hugo Award for Best LGBTQ Film, and is now going to play at the MAMI Film Festival (Mumbai Academy of Moving Image), on the [1st of Nov, 2023](https://mami.mumbaifilmfestival.com/detail/?UID=69EC6EA6-702E-4637-AD89-1EA0750EB2A4).
+Featuring a cast with the likes of Mukul Chadda and Rasika Dugal, Abhinay’s second feature film collaboration with Karan, Fairy Folk, is currently looking for distribution platforms. This time too, the duo handled deparments all over the production, albeit with more resources than they ever had on Corrode. Produced by Empatheia Films, the duo's production imprint and Bala Wala Films led by actor/producer Annukampa Harsh, the film has also been supported by Awe Films and Accord Equips. Fairy folk made its debut in the festival circuit at Sydney International Film festival, playing the first screening at Event Cinemas in downtown Sydney and New Town Cinemas in the art district. The film went on to engage audiences at Indian Film Festival of Melbourne, MAMI Film Festival (Mumbai Academy of Moving Image), Yellowstone International Festival, and Chicago International Film Festival where it was nominated for a Q-Hugo Award for Best LGBTQ Film. The film graced the theatrical silver screen in March of 2024 and is now available to watch under a pay-as-you-like model on its own breakthrough distribution platform on [https://fairyfolkthefilm.com](https://fairyfolkthefilm.com) that is redefining how independent movies are distributed.
 
-{% include instagram.html id="CdZUA5lKa4y" %}
+{% include instagram.html id="C9RXMZJtBm_" %}
+
+{% include instagram.html id="C39WfCByrJP" %}
 
 {% include instagram.html id="Cj7yAAIS8rV" %}
-
-{% include instagram.html id="CeeaPoSDDyG" %}
 
 <script async src="//www.instagram.com/embed.js"></script>
