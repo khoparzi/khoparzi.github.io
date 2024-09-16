@@ -4,7 +4,7 @@ title: Video Production
 subtitle:
 ---
 
-A selection of my videos and collaborations posted on Instagram
+A selection of videos and collaborations posted on socials
 
 {% include instagram.html id="C39WfCByrJP" %}
 
