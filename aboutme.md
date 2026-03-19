@@ -9,7 +9,7 @@ I am a multidisciplinary creative technologist who maintains a practice across f
 I am interested in using technology itself as a medium that can be molded into various form to tell stories and build experiences. To this end I collaborate with varied artists, and technicians to tackle creative, interactive and technical challenges, and explore various permutations and extensions to art.
 
 
-### my history
+### My story
 
 I have been the co-founder and technology director of collectives like 3rd Thought Entertainment; a web platform, netlabel, publishing company, and that represented 32 artists from all over the world; Empathiea Films, and Conjure Arts and Media. In capacity of my role as co-founder and technical director of SpotMyGadget.com I designed a recommendation engine based on software I had previously written for a prototype installation for 3rd Thought. This was further developed as part of the architecture for the web application for which I oversaw feature development, engineering and overall production workflow.
 
