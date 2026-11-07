@@ -2,12 +2,12 @@
 _site
 .sass-cache
 .vagrant
+node_modules
+.cache
+dist
+.astro
 
 # general
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem

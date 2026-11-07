@@ -1,0 +1,15 @@
+{
+  "name": "khoparzi-website",
+  "version": "2.0.0",
+  "description": "Abhinay Khoparzi - Algorithmic Arts & Creative Technology Portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2"
+  }
+}

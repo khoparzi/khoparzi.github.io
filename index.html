@@ -1,7 +1,47 @@
 ---
-layout: home
-title: ----
-subtitle: Works, notes, and musings from a creative polyglot
-use-site-title: true
-js: ["/js/anime.min.js", "/js/shuffle.js"]
+layout: base.html
+title: Home
 ---
+
+<section class="hero">
+  <div class="hero-subtitle">Creative Technologist &middot; Algorave Artist &middot; Livecoder</div>
+  <h1>Abhinay Khoparzi</h1>
+  <p class="hero-bio">
+    Multidisciplinary creative technologist maintaining a practice across algorithmic music, livecoded shaders, film, and creative technology tools. Co-founder of <a href="https://algorave.in" target="_blank" rel="noopener">Algorave India</a> and performer in intercontinental ensembles.
+  </p>
+  <div class="hero-actions">
+    <a href="/music/" class="btn btn-primary">Music & Algoraves</a>
+    <a href="/art/" class="btn btn-outline">Art & Shaders</a>
+    <a href="/gigs/" class="btn btn-outline">Performances & Gigs</a>
+    <a href="/aboutme/" class="btn btn-outline">About & Bio</a>
+  </div>
+</section>
+
+<section id="posts" style="margin-top: 3rem;">
+  <h2>Writings, Notes & Documentation</h2>
+  <div class="posts-list" style="margin-top: 1.5rem;">
+    {% for post in collections.post reversed %}
+    <article class="post-card">
+      <div class="post-meta">
+        <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %d, %Y" }}</time>
+        {% if post.data.tags %}
+        <span class="meta-divider">&middot;</span>
+        <span>
+          {% for tag in post.data.tags %}
+            {% if tag != "post" %}
+              #{{ tag }}{% unless forloop.last %}, {% endunless %}
+            {% endif %}
+          {% endfor %}
+        </span>
+        {% endif %}
+      </div>
+      <h3 class="post-title">
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+      </h3>
+      {% if post.data.subtitle %}
+      <p class="post-excerpt">{{ post.data.subtitle }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>

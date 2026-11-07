@@ -6,11 +6,11 @@ subtitle:
 
 ## Kshay or Corrode, 2012
 
-![Kshay](img/kshay-2012.jpg)
+![Kshay](/img/kshay-2012.jpg)
 
 [IMDB](https://www.imdb.com/title/tt1669648/)
 
-Introducing the talented face of [Rasika Dugal](https://en.wikipedia.org/wiki/Rasika_Dugal) in her first lead role opposite Alekh Sangal, it took two men (writer/director [Karan Gour](karan-gour.md) and cinematographer, technical director and VFX Lead Abhinay Khoparzi) four years and $10,000 to complete Corrode. Everything was done in a 2-room apartment that doubled up as a prop workshop, a green screen studio, an ADR studio (Karan’s bedroom became the recording booth, while Abhinay’s bedroom was the control room) and an editing studio.
+Introducing the talented face of [Rasika Dugal](https://en.wikipedia.org/wiki/Rasika_Dugal) in her first lead role opposite Alekh Sangal, it took two men (writer/director [Karan Gour](/karan-gour/) and cinematographer, technical director and VFX Lead Abhinay Khoparzi) four years and $10,000 to complete Corrode. Everything was done in a 2-room apartment that doubled up as a prop workshop, a green screen studio, an ADR studio (Karan’s bedroom became the recording booth, while Abhinay’s bedroom was the control room) and an editing studio.
 
 Corrode went on to be a breakthrough, critically-acclaimed indie, which won awards at many film festivals including winning the ‘Asian New Talent Award’ at the Shanghai International Film Festival (the prize money was twice the budget of the film). Karan won the ‘Best Director’ award at SAIFF, New York and the ‘Best Film’ award at IFFLA, Los Angeles.  After its year long run at film festivals, Corrode released theatrically in India followed by a Netflix and Amazon release.
  
@@ -18,7 +18,7 @@ For Karan and Abhinay, Corrode was more than just a stepping stone into films. I
 
 ## Fairy Folk, 2022
 
-![Fairy Folk](img/fairy-folk-2022.jpg)
+![Fairy Folk](/img/fairy-folk-2022.jpg)
 
 [IMDB](https://www.imdb.com/title/tt20202992/)
 

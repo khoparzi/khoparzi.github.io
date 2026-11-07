@@ -16,13 +16,17 @@ Patterns emerge from monotones of traditional world tunings as they curve into t
 * Tuning systems based on the amazing work by [Andrew Bernstein & Ben Taylor](https://github.com/abbernie/tune/), porting Victor Cerullo's exhaustive [Scala tuning archive](https://www.huygens-fokker.org/scala/)
 * Sequencing on the webaudio API with Yotam Mann's [Tone.js](http://tonejs.github.io/)
 
-![Collab-Scape at Future Landing, Serendipty Art Festival](art/collabscape/newgrab.mp4)
+<video controls playsinline preload="metadata" style="max-width: 100%; border: 1px solid var(--color-border); margin: 1.5rem 0;">
+  <source src="/art/collabscape/newgrab.mp4" type="video/mp4">
+</video>
 
-![Collab-Scape at Serendipty Art Festival, Goa](art/collabscape/basic-install.jpg)
+![Collab-Scape at Serendipty Art Festival, Goa](/art/collabscape/basic-install.jpg)
 
-![Collab-Scape at Serendipty Art Festival](art/collabscape/visitors.jpg)
+![Collab-Scape at Serendipty Art Festival](/art/collabscape/visitors.jpg)
 
-![Collab-Scape at Serendipty Art Festival, Goa](art/collabscape/visitors-1080p.mp4)
+<video controls playsinline preload="metadata" style="max-width: 100%; border: 1px solid var(--color-border); margin: 1.5rem 0;">
+  <source src="/art/collabscape/visitors-1080p.mp4" type="video/mp4">
+</video>
 
 ### Technical Details
 
@@ -34,7 +38,7 @@ Ashish has written more about his work with Collab-Scape and our collaboration w
 
 ## Metro Sonata, 2019
 
-![Metro Sonata at Goethe-Institut / Max Mueller Bhavan](art/metro-sonata/metro-sonata_web.jpg)
+![Metro Sonata at Goethe-Institut / Max Mueller Bhavan](/art/metro-sonata/metro-sonata_web.jpg)
 
 Metro Sonata is an interactive sound installation, based on the soundscape of the Delhi Metro by Ameet Singh. It was first presented to public as part of Goethe-Institut's Five Million Incidents engagements in October - December of 2019.
 
@@ -56,7 +60,7 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 
 ## Osmoscape, 2017
 
-![Osmoscape](art/osmoscape/title.jpg)
+![Osmoscape](/art/osmoscape/title.jpg)
 
 [“OsmoScape”](https://app.osmoscape.com) explores a graphical notation score, where data and graphs related to water have been arranged to form a sound score and a book.  The found data was then converted into an image using processing code that becomes the visual bases of a score, leading eventually to sound compositions being constructed out of user engagement via a WebApp, exploring a new way of archiving 55 datasets with their stories and sounds.
 
@@ -69,18 +73,18 @@ A surge of humanity descends into the cavernous tunnels of the Metro, deep benea
 * UI DESIGN Studio Mesmer and Trusha Sawant
 * CO-WRITER FOR BOOK Supriya Vohra (independent journalist)
 
-![Chapter 2](art/osmoscape/chap-2.jpg)
+![Chapter 2](/art/osmoscape/chap-2.jpg)
 
-![Chapter 3](art/osmoscape/chap-3.jpg)
+![Chapter 3](/art/osmoscape/chap-3.jpg)
 
-![Chapter 4](art/osmoscape/chap-4.jpg)
+![Chapter 4](/art/osmoscape/chap-4.jpg)
 
-![Chapter 5 and 6](art/osmoscape/chap-5-6.jpg)
+![Chapter 5 and 6](/art/osmoscape/chap-5-6.jpg)
 
 ## Shader Art
 
-[Julia Fractals of 2020](shader-art/julia.md), a month's worth of sketches exploring various experiments with Julia fractals through the month of July 2020
+[Julia Fractals of 2020](/shader-art/julia/), a month's worth of sketches exploring various experiments with Julia fractals through the month of July 2020
 
-[Marching signed distance fields](shader-art/marching.md), a month's worth of Marching.js sketches exploring various experiments with Signed Distance Fields and combinatorial geometries through the month of March 2021.
+[Marching signed distance fields](/shader-art/marching/), a month's worth of Marching.js sketches exploring various experiments with Signed Distance Fields and combinatorial geometries through the month of March 2021.
 
-<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>

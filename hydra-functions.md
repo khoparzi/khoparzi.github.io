@@ -1,3 +1,9 @@
+---
+layout: page
+title: Hydra Functions
+subtitle: Quick Reference & Documentation for Hydra Synth
+---
+
 *This is a temporary location for the most updated docs produced by [Jack Armitage](https://github.com/jarmitage) at the time of publishing*
 
 22 March 2019
