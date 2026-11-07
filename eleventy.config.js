@@ -15,6 +15,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("img");
+  eleventyConfig.addPassthroughCopy("360");
   eleventyConfig.addPassthroughCopy("livecode-resources");
   eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy("favicon.ico");

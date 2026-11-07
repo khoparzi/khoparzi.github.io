@@ -215,6 +215,15 @@ The following existing pages and content must be preserved and rendered cleanly:
   - **Livecode Resources (`/livecode-resources`)**: PDFs and cheatsheets for Hydra and TidalCycles.
 - **Gigs & Events (`/gigs`)**: Chronological archive and upcoming performances.
 - **Press (`/press`)**: Media coverage, interviews, articles.
+- **360 VR Experiences (`/360`)**:
+  - Interactive WebVR & Marzipano multi-scene panoramic environments.
+  - Managed declaratively via `_data/vr360.js` and templated in `360.html`.
+  - Passthrough copied directly by Eleventy via `addPassthroughCopy("360")`.
+  - **USER PREFERENCE**: Keep `/360` **unlisted** from the global header navigation bar for now. Do NOT add `/360` to `site.nav` unless explicitly instructed by the user.
+
+### 5.3 Static Asset Organization
+- All site images, video files, and archives reside under [`img/`](/img/).
+- Never place media asset folders directly in the project root if they share the name of a content page (e.g. do not create a root `art/` asset folder because `art.md` generates `/art/index.html`). All static media must go into `img/art/` or appropriate subdirectories of `img/`.
 
 ---
 

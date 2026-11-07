@@ -1,0 +1,65 @@
+---
+layout: page
+title: 360° VR Experiences
+subtitle: Interactive Virtual Reality Tours & Panoramic Environments
+permalink: /360/
+---
+
+<div class="vr-intro">
+  <p>
+    Interactive 360° virtual reality environments, architectural walkthroughs, and spatial captures powered by WebGL and Marzipano. These experiences feature full spherical panning, device orientation / gyroscope control, and WebVR headset compatibility.
+  </p>
+</div>
+
+<div class="vr-grid">
+  {% for exp in vr360 %}
+  <article class="vr-card">
+    <div class="vr-thumbnail-container">
+      <a href="{{ exp.url }}" class="vr-thumbnail-link" aria-label="Launch {{ exp.title }}">
+        <img src="{{ exp.thumbnail }}" alt="{{ exp.title }}" class="vr-thumbnail" loading="lazy">
+        <div class="vr-overlay">
+          <span class="vr-launch-badge">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polygon points="10 8 16 12 10 16 10 8"></polygon>
+            </svg>
+            Launch Experience
+          </span>
+        </div>
+      </a>
+    </div>
+
+    <div class="vr-card-content">
+      <div class="vr-card-header">
+        <span class="badge vr-engine-badge">{{ exp.engine }}</span>
+        <span class="badge vr-scenes-badge">{{ exp.scenes }} Scenes</span>
+        <span class="vr-year">{{ exp.year }}</span>
+      </div>
+
+      <h2 class="vr-card-title">
+        <a href="{{ exp.url }}">{{ exp.title }}</a>
+      </h2>
+
+      <p class="vr-card-location">
+        <strong>Location:</strong> {{ exp.location }}
+      </p>
+
+      <p class="vr-card-description">
+        {{ exp.description }}
+      </p>
+
+      <ul class="vr-features-list">
+        {% for feat in exp.features %}
+        <li>{{ feat }}</li>
+        {% endfor %}
+      </ul>
+
+      <div class="vr-card-actions">
+        <a href="{{ exp.url }}" class="btn btn-primary">
+          Launch 360° VR Experience &rarr;
+        </a>
+      </div>
+    </div>
+  </article>
+  {% endfor %}
+</div>
