@@ -21,4 +21,4 @@ Since 2018 I have been collaborating with artists from all over the world with n
 
 I hold diplomas in Web Technologies, Sound Engineering, and Video Post Production from various schools in India and have a Master’s in Television Production from Birmingham City University, UK
 
-[Latest CV and Resume](/Abhinay-Khoparzi-Resume-June-2023.pdf)
+[Latest CV and Resume](/Abhinay-Khoparzi-Resume-July-2026.pdf)
