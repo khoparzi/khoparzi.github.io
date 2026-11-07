@@ -5,6 +5,7 @@ _site
 node_modules
 .cache
 dist
+.astro
 
 # general
 .DS_Store
