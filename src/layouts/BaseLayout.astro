@@ -1,0 +1,95 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  interactive?: boolean;
+}
+
+const {
+  title,
+  description = "Multidisciplinary creative technologist working across algorithmic music, livecoded shaders, film, and creative tools.",
+  interactive = false
+} = Astro.props;
+
+const siteTitle = "Abhinay Khoparzi";
+const fullTitle = title && title !== "----" ? `${title} · ${siteTitle}` : siteTitle;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="icon" href="/favicon.ico" />
+
+  <!-- Early theme initialization to prevent Flash of Unstyled Theme -->
+  <script is:inline>
+    (function() {
+      try {
+        var saved = localStorage.getItem("mit-theme-preference");
+        var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        var theme = saved || (prefersDark ? "dark" : "light");
+        document.documentElement.setAttribute("data-theme", theme);
+      } catch (e) {}
+    })();
+  </script>
+
+  <!-- MIT Brand Guidelines Compliant Stylesheet (Zero Google/Adobe Fonts) -->
+  <link rel="stylesheet" href="/css/main.css" />
+</head>
+<body>
+  <div class="brand-top-stripe"></div>
+  <Header />
+
+  <main class="site-main" id="main-content">
+    <slot />
+  </main>
+
+  <Footer />
+
+  <!-- Vanilla JavaScript -->
+  <script is:inline src="/js/theme.js"></script>
+  <script is:inline src="/js/nav.js"></script>
+  <script is:inline>
+    (function() {
+      function processInstagram() {
+        if (!document.querySelector(".instagram-media")) return;
+        if (window.instgrm && window.instgrm.Embeds) {
+          window.instgrm.Embeds.process();
+        } else {
+          var existingScript = document.querySelector('script[src*="instagram.com/embed.js"]');
+          if (!existingScript) {
+            var igScript = document.createElement("script");
+            igScript.async = true;
+            igScript.src = "https://www.instagram.com/embed.js";
+            igScript.onload = function() {
+              if (window.instgrm && window.instgrm.Embeds) {
+                window.instgrm.Embeds.process();
+              }
+            };
+            document.body.appendChild(igScript);
+          } else {
+            existingScript.addEventListener("load", function() {
+              if (window.instgrm && window.instgrm.Embeds) {
+                window.instgrm.Embeds.process();
+              }
+            });
+          }
+        }
+      }
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", processInstagram);
+      } else {
+        processInstagram();
+      }
+    })();
+  </script>
+  {interactive && <script is:inline src="/js/interactive.js"></script>}
+</body>
+</html>

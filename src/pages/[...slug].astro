@@ -1,0 +1,41 @@
+---
+import { getCollection, render } from 'astro:content';
+import PostLayout from '../layouts/PostLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+
+  return posts.map((post) => {
+    const rawId = post.id.replace(/\.(md|markdown)$/, '');
+    const normalized = rawId.replace(/^(\d{4})-(\d{1,2})-(\d{1,2})-/, (_, y, m, d) => {
+      return `${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}-`;
+    });
+
+    return {
+      params: { slug: normalized },
+      props: { post }
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+let postDate = post.data.date;
+if (!postDate) {
+  const match = post.id.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/);
+  if (match) {
+    const [_, y, m, d] = match;
+    postDate = new Date(`${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}T00:00:00Z`);
+  }
+}
+---
+
+<PostLayout
+  title={post.data.title}
+  subtitle={post.data.subtitle}
+  date={postDate}
+  tags={post.data.tags}
+>
+  <Content />
+</PostLayout>

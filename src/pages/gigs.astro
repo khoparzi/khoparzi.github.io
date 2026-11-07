@@ -1,0 +1,53 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import getGigs from '../../_data/gigs.js';
+
+const gigs = getGigs();
+---
+
+<PageLayout title="Gigs & Workshops">
+  <h2>Performances, Talks & Workshops</h2>
+  <div style="overflow-x: auto; margin-top: 1.5rem;">
+    <table class="gigs-table">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Event / Performance</th>
+          <th>Location</th>
+        </tr>
+      </thead>
+      <tbody>
+        {gigs.map((gig) => (
+          <tr>
+            <td style="font-family: var(--font-mono); white-space: nowrap;">{gig.date}</td>
+            <td>
+              {gig.link && gig.link.startsWith('http') ? (
+                <a href={gig.link} target="_blank" rel="noopener">{gig.name}</a>
+              ) : (
+                gig.name
+              )}
+            </td>
+            <td>{gig.location}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2 style="margin-top: 3rem;">Recent Features</h2>
+  <ul>
+    <li><a href="https://www.thewildcity.com/features/18650-the-cult-of-the-code-decoding-algorave-its-future-in-south-asia" target="_blank" rel="noopener">The Cult Of The Code: Decoding Algorave and Its Future In South Asia</a></li>
+    <li><a href="https://www.vogue.in/culture-and-living/content/25-must-visit-art-exhibits-in-and-around-india-you-need-to-check-out" target="_blank" rel="noopener">25 must-visit art exhibits in and around India you need to check out</a> - Vogue India</li>
+  </ul>
+
+  <h2>Works</h2>
+  <ul>
+    <li><a href="http://futurelanding.serendipityartsvirtual.com/abhinaykhoparzi" target="_blank" rel="noopener">Future Landing: Collabscape</a></li>
+  </ul>
+
+  <h2>Music Releases</h2>
+  <ul>
+    <li><a href="https://khoparzi.bandcamp.com/album/circadia" target="_blank" rel="noopener">Circadia</a></li>
+    <li><a href="https://youtu.be/C0fIfrlbcfo" target="_blank" rel="noopener">GitHub India Satellite 2021, Day 2: Opening performance</a></li>
+  </ul>
+</PageLayout>

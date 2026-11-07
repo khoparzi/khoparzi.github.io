@@ -1,0 +1,82 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+
+const sortedPosts = allPosts.map((post) => {
+  let postDate = post.data.date;
+  if (!postDate) {
+    const match = post.id.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/);
+    if (match) {
+      const [_, y, m, d] = match;
+      postDate = new Date(`${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}T00:00:00Z`);
+    }
+  }
+
+  const rawId = post.id.replace(/\.(md|markdown)$/, '');
+  const slug = rawId.replace(/^(\d{4})-(\d{1,2})-(\d{1,2})-/, (_, y, m, d) => {
+    return `${y}-${m.padStart(2, '0')}-${d.padStart(2, '0')}-`;
+  });
+
+  return {
+    ...post,
+    effectiveDate: postDate || new Date(0),
+    slug
+  };
+}).sort((a, b) => b.effectiveDate.getTime() - a.effectiveDate.getTime());
+
+const formatDate = (date: Date) => {
+  return new Intl.DateTimeFormat('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    timeZone: 'UTC'
+  }).format(date);
+};
+---
+
+<BaseLayout title="Home">
+  <section class="hero">
+    <div class="hero-subtitle">Creative Technologist &middot; Algorave Artist &middot; Livecoder</div>
+    <h1>Abhinay Khoparzi</h1>
+    <p class="hero-bio">
+      Multidisciplinary creative technologist maintaining a practice across algorithmic music, livecoded shaders, film, and creative technology tools. Co-founder of <a href="https://algorave.in" target="_blank" rel="noopener">Algorave India</a> and performer in intercontinental ensembles.
+    </p>
+    <div class="hero-actions">
+      <a href="/music/" class="btn btn-primary">Music & Algoraves</a>
+      <a href="/art/" class="btn btn-outline">Art & Shaders</a>
+      <a href="/gigs/" class="btn btn-outline">Performances & Gigs</a>
+      <a href="/aboutme/" class="btn btn-outline">About & Bio</a>
+    </div>
+  </section>
+
+  <section id="posts" style="margin-top: 3rem;">
+    <h2>Writings, Notes & Documentation</h2>
+    <div class="posts-list" style="margin-top: 1.5rem;">
+      {sortedPosts.map((post) => (
+        <article class="post-card">
+          <div class="post-meta">
+            <time datetime={post.effectiveDate.toISOString().split('T')[0]}>
+              {formatDate(post.effectiveDate)}
+            </time>
+            {post.data.tags && (
+              <>
+                <span class="meta-divider">&middot;</span>
+                <span>
+                  {post.data.tags.filter(t => t !== "post").map(t => `#${t}`).join(', ')}
+                </span>
+              </>
+            )}
+          </div>
+          <h3 class="post-title">
+            <a href={`/${post.slug}/`}>{post.data.title}</a>
+          </h3>
+          {post.data.subtitle && (
+            <p class="post-excerpt">{post.data.subtitle}</p>
+          )}
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,16 @@
+{
+  "name": "khoparzi-website",
+  "version": "2.0.0",
+  "description": "Abhinay Khoparzi - Algorithmic Arts & Creative Technology",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev --host",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

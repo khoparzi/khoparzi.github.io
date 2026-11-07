@@ -1,0 +1,62 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  date?: Date;
+  tags?: string[];
+  author?: string;
+}
+
+const { title, subtitle, date, tags, author } = Astro.props;
+
+const formattedDate = date
+  ? new Intl.DateTimeFormat('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+      timeZone: 'UTC'
+    }).format(date)
+  : '';
+
+const isoDate = date ? date.toISOString().split('T')[0] : '';
+---
+
+<BaseLayout title={title}>
+  <article class="blog-post prose">
+    <header class="post-header">
+      {formattedDate && (
+        <div class="post-meta">
+          <time datetime={isoDate}>{formattedDate}</time>
+          {author && (
+            <>
+              <span class="meta-divider">&middot;</span>
+              <span>{author}</span>
+            </>
+          )}
+        </div>
+      )}
+
+      <h1>{title}</h1>
+
+      {subtitle && <p class="hero-subtitle">{subtitle}</p>}
+
+      {tags && tags.length > 0 && (
+        <ul class="tags-list">
+          {tags.filter(t => t !== "post").map((tag) => (
+            <li><span class="tag-badge">#{tag}</span></li>
+          ))}
+        </ul>
+      )}
+    </header>
+
+    <div class="prose-body" style="margin-top: 2rem;">
+      <slot />
+    </div>
+
+    <nav class="post-navigation" style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); display: flex; justify-content: space-between;">
+      <a href="/">&larr; Back to all writings</a>
+    </nav>
+  </article>
+</BaseLayout>

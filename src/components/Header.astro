@@ -1,0 +1,48 @@
+---
+const navItems = [
+  { title: "About", url: "/aboutme/" },
+  { title: "Film", url: "/film/" },
+  { title: "Music", url: "/music/" },
+  { title: "Video", url: "/video/" },
+  { title: "Art", url: "/art/" },
+  { title: "Gigs", url: "/gigs/" },
+  { title: "Press", url: "/press/" }
+];
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="brand-lockup">
+      <span class="brand-monogram">KHOPARZI</span>
+      <span class="brand-divider">/</span>
+      <span class="brand-title">Abhinay Khoparzi</span>
+    </a>
+
+    <div class="site-nav">
+      <nav aria-label="Main Navigation">
+        <ul class="nav-links">
+          {navItems.map((item) => (
+            <li>
+              <a
+                href={item.url}
+                class={currentPath === item.url || currentPath.startsWith(item.url) ? "active" : ""}
+                aria-current={currentPath === item.url ? "page" : undefined}
+              >
+                {item.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+
+      <button class="mobile-nav-toggle" aria-label="Toggle mobile menu" aria-expanded="false">
+        ☰
+      </button>
+    </div>
+  </div>
+</header>

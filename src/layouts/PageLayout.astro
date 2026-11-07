@@ -1,0 +1,32 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title?: string;
+  subtitle?: string;
+  interactive?: boolean;
+  frontmatter?: {
+    title?: string;
+    subtitle?: string;
+    interactive?: boolean;
+  };
+}
+
+const title = Astro.props.title || Astro.props.frontmatter?.title;
+const subtitle = Astro.props.subtitle || Astro.props.frontmatter?.subtitle;
+const interactive = Astro.props.interactive || Astro.props.frontmatter?.interactive;
+---
+
+<BaseLayout title={title} interactive={interactive}>
+  <article class="page-content prose">
+    {title && title !== "----" && (
+      <header class="page-header">
+        <h1>{title}</h1>
+        {subtitle && <p class="hero-subtitle">{subtitle}</p>}
+      </header>
+    )}
+    <div class="prose-body">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>
