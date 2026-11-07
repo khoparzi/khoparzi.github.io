@@ -6,7 +6,7 @@ subtitle:
 
 Almost a month's worth of Marching.js sketches exploring various experiments with Signed Distance Fields and combinatorial geometries through the month of March 2021. [Marching.js](https://charlieroberts.github.io/marching/playground/) is a JavaScript shader compiler specifically focused on ray marching via signed distance functions.
 
-https://gist.github.com/khoparzi/8bbe8542cf7f8b4292c1a0174c0f8b4c
+[View the code on GitHub](https://gist.github.com/khoparzi/8bbe8542cf7f8b4292c1a0174c0f8b4c)
 
 {% include instagram.html id="CL4ZbPTJbw3" %}
 
@@ -83,4 +83,4 @@ I ended up doing some more the next year. So here is some more from 2022.
 {% include instagram.html id="CbDIi8ZA2c_" %}
 
 
-<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>

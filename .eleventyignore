@@ -1,0 +1,15 @@
+README.md
+CHANGELOG.md
+LICENSE
+AGENTS.md
+Dockerfile
+Gemfile
+Gemfile.lock
+_config.yml
+_config_dev.yml
+samples/
+node_modules/
+_drafts/
+uxr/
+360/
+hubs_avatars/

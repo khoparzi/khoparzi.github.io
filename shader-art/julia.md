@@ -6,7 +6,7 @@ subtitle:
 
 Almost a month's worth of Marching.js sketches exploring various experiments with Julia fractals through the month of July 2020. [Marching.js](https://charlieroberts.github.io/marching/playground/) is a JavaScript shader compiler specifically focused on ray marching via signed distance functions.
 
-https://gist.github.com/khoparzi/bb5c29b5e20cfde5d7a88a70c3629227
+[View the code on GitHub](https://gist.github.com/khoparzi/bb5c29b5e20cfde5d7a88a70c3629227)
 
 {% include instagram.html id='CCGo6rBJMlT' %}
 
@@ -64,4 +64,4 @@ https://gist.github.com/khoparzi/bb5c29b5e20cfde5d7a88a70c3629227
 
 {% include instagram.html id='CDMWSmtJ87h' %}
 
-<script async src="//www.instagram.com/embed.js"></script>
+<script async src="https://www.instagram.com/embed.js"></script>

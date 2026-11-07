@@ -1,52 +1,41 @@
 ---
-layout: base
+layout: base.html
 ---
 
-{% include header.html type="post" %}
-
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-      <article role="main" class="blog-post">
-        {{ content }}
-      </article>
-
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          Tags:
-          {% if site.link-tags %}
-          {% for tag in page.tags %}
-            <a href="/tag/{{ tag }}">{{ tag }}</a>
-          {% endfor %}
-          {% else %}
-            {{ page.tags | join: ", " }}
-          {% endif %}
-        </div>
-      {% endif %}
-
-      {% if page.social-share %}
-        {% include social-share.html %}
-      {% endif %}
-
-      <ul class="pager blog-pager">
-        {% if page.previous.url %}
-        <li class="previous">
-          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="next">
-          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-        </li>
-        {% endif %}
-      </ul>
-
-      {% if page.comments %}
-        <div class="disqus-comments">
-          {% include disqus.html %}
-        </div>
+<article class="blog-post prose">
+  <header class="post-header">
+    <div class="post-meta">
+      <time datetime="{{ page.date | date: '%Y-%m-%d' }}">
+        {{ page.date | date: "%B %d, %Y" }}
+      </time>
+      {% if author %}
+      <span class="meta-divider">&middot;</span>
+      <span>{{ author }}</span>
       {% endif %}
     </div>
+
+    <h1>{{ title }}</h1>
+
+    {% if subtitle %}
+    <p class="hero-subtitle">{{ subtitle }}</p>
+    {% endif %}
+
+    {% if tags and tags.size > 0 %}
+    <ul class="tags-list">
+      {% for tag in tags %}
+      {% if tag != "post" %}
+      <li><span class="tag-badge">#{{ tag }}</span></li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </header>
+
+  <div class="prose-body" style="margin-top: 2rem;">
+    {{ content }}
   </div>
-</div>
+
+  <nav class="post-navigation" style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--color-border); display: flex; justify-content: space-between;">
+    <a href="/">&larr; Back to all writings</a>
+  </nav>
+</article>

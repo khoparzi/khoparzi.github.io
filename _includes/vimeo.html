@@ -1,13 +1,11 @@
-<!-- Feel free to change the width and height to your desired video size. -->
-
+{% assign video_id = include.id | default: id %}
 <div class="embed-container">
-    <iframe
-        src="https://player.vimeo.com/video/{{ include.id }}"
-        width="700"
-        height="480"
-        frameborder="0"
-        webkitallowfullscreen
-        mozallowfullscreen
-        allowfullscreen>
-    </iframe>
-  </div>
+  <iframe
+    src="https://player.vimeo.com/video/{{ video_id }}"
+    title="Vimeo video player"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
