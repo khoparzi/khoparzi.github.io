@@ -48,7 +48,14 @@
       }
     }
   </script>
-  {% if interactive %}
+  {% if hydra_bg %}
+  <div class="hydra-bg-wrapper">
+    <canvas id="hydra-bg-canvas" data-code="{{ hydra_bg | escape }}"></canvas>
+    <button type="button" class="btn btn-sm hydra-bg-toggle" id="hydra-bg-toggle">Pause Visuals</button>
+  </div>
+  {% endif %}
+
+  {% if interactive or hydra_bg %}
   <script src="/js/interactive.js"></script>
   {% endif %}
 </body>
