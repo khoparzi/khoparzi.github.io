@@ -232,6 +232,10 @@ body {
   cursor: pointer;
 }
 
+.hero-actions {
+    display: none;
+}
+
 @media (max-width: 768px) {
   .mobile-nav-toggle {
     display: block;
@@ -252,6 +256,13 @@ body {
 
   .nav-links.is-open {
     display: flex;
+  }
+
+  .hero-actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    flex-wrap: wrap;
   }
 }
 
@@ -370,13 +381,6 @@ blockquote p:last-child {
   line-height: 1.6;
   color: var(--color-text);
   max-width: var(--prose-width);
-}
-
-.hero-actions {
-  display: flex;
-  gap: 1rem;
-  margin-top: 1.5rem;
-  flex-wrap: wrap;
 }
 
 .btn {
