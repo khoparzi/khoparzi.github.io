@@ -50,6 +50,13 @@ export default function(eleventyConfig) {
     }
   });
 
+  // Show all network hosts (LAN IPv4 URLs) when running `npm run dev`
+  if (process.env.npm_lifecycle_event === "dev" || process.env.ELEVENTY_NETWORK === "true") {
+    eleventyConfig.setServerOptions({
+      showAllHosts: true
+    });
+  }
+
   // Configure Liquid options for Jekyll compatibility
   eleventyConfig.setLiquidOptions({
     dynamicPartials: false,

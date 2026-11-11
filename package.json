@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "eleventy --serve",
+    "dev": "eleventy --serve",
     "build": "eleventy"
   },
   "devDependencies": {

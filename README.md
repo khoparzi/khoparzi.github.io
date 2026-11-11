@@ -25,11 +25,14 @@ npm install
 # Start local development server with hot reload
 npm start
 
+# Start network-accessible development server (prints LAN URLs for testing on other devices)
+npm run dev
+
 # Build production static site
 npm run build
 ```
 
-The site will be available at `http://localhost:8080`.
+The site will be available at `http://localhost:8080` (and on your local network at the IPv4 URL(s) printed in the terminal when using `npm run dev`).
 
 ## Content Authoring
 
