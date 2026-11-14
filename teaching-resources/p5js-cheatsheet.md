@@ -64,13 +64,13 @@ if (random(1) < 0.5) {
 ```
 
 **The Grid Stamp (Nested `for` Loops)**  
-Steps across every column (`x`) and down every row (`y`) by `step` pixels.
+Steps across every column (`x`) and down every row (`y`) by `size` pixels.
 
 ```javascript
-let step = 30;
-for (let y = 0; y < height; y += step) {
-  for (let x = 0; x < width; x += step) {
-    // Place your tile rule here using x, y, and step
+let size = 30;
+for (let y = 0; y < height; y += size) {
+  for (let x = 0; x < width; x += size) {
+    // Place your tile rule here using x, y, and size
   }
 }
 ```
