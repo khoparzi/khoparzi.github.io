@@ -57,9 +57,9 @@ Colors accept grayscale (`0`–`255`), RGB (`255, 0, 100`), RGBA with opacity (`
 
 ```javascript
 if (random(1) < 0.5) {
-  line(x, y, x + step, y + step); // 50% chance: backslash \
+  line(x, y, x + size, y + size); // 50% chance: backslash \
 } else {
-  line(x + step, y, x, y + step); // 50% chance: forward slash /
+  line(x + size, y, x, y + size); // 50% chance: forward slash /
 }
 ```
 
